@@ -1,0 +1,21 @@
+/*   
+Theme Name: Malina child-theme
+Theme URI: http://themeforest.net/user/artstudioworks/portfolio
+Description: Malina is the perfect and stylish template to present your ideas online. With wide range of project layouts, from full-screen to iconic grid, you can easily create template you need, that will engaging visitors and potential clients.
+Author: ArtstudioWorks
+Author URI: http://themeforest.net/user/artstudioworks
+Version: 1.0
+License: GNU General Public License version 3.0
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Template: malina
+Tags: white, black, blue, fluid-layout, fixed-layout, custom-colors, custom-background, theme-options, translation-ready
+Designed by MontaukCo: http://themeforest.net/user/montaukco
+
+All PHP code is released under the GNU General Public Licence version 3.0
+*/
+
+.herosection_text {
+	font-size: 100px;
+}
+/* =Theme customization starts here
+-------------------------------------------------------------- */

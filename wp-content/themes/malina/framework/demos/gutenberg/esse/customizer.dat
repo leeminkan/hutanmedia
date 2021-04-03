@@ -1,0 +1,92 @@
+a:4:{s:8:"template";s:6:"malina";s:4:"mods";a:90:{i:0;b:0;s:18:"nav_menu_locations";a:3:{s:15:"side_navigation";N;s:15:"main_navigation";i:6;s:17:"mobile_navigation";i:7;}s:18:"custom_css_post_id";i:175;s:21:"malina_header_variant";s:15:"header-version8";s:23:"malina_media_logo_width";s:3:"120";s:23:"malina_logo_font_family";s:6:"Alatsi";s:18:"malina_header_grid";s:26:"container header-fullwidth";s:33:"malina_header_bottom_border_width";s:1:"1";s:26:"malina_header_border_color";s:7:"#e5e6e8";s:30:"malina_header_top_border_width";s:1:"0";s:23:"malina_logo_font_weight";s:3:"400";s:32:"malina_logo_title_letter_spacing";s:1:"0";s:21:"malina_menu_font_size";s:4:"14px";s:23:"malina_menu_font_family";s:6:"Alatsi";s:23:"malina_menu_font_weight";s:3:"400";s:22:"malina_menu_item_color";s:7:"#212223";s:27:"malina_header_search_button";s:0:"";s:17:"malina_blog_style";s:9:"style_5_2";s:18:"malina_sidebar_pos";s:4:"none";s:32:"malina_meta_categories_font_size";s:4:"16px";s:34:"malina_meta_categories_font_family";s:6:"Alatsi";s:28:"malina_meta_categories_color";s:7:"#1fc8be";s:34:"malina_meta_categories_color_hover";s:7:"#212223";s:33:"malina_posts_headings_font_family";s:6:"Alatsi";s:36:"malina_posts_headings_letter_spacing";s:1:"0";s:30:"malina_post_headings_transform";s:10:"capitalize";s:24:"malina_display_post_date";s:1:"1";s:26:"malina_blog_elements_align";s:8:"textleft";s:26:"malina_blog_thumbnail_size";s:6:"medium";s:26:"malina_meta_info_font_size";s:4:"14px";s:28:"malina_meta_info_font_family";s:6:"Alatsi";s:26:"malina_meta_info_transform";s:4:"none";s:22:"malina_meta_info_color";s:7:"#8f9197";s:31:"malina_meta_info_letter_spacing";s:1:"0";s:25:"malina_display_post_likes";s:0:"";s:33:"malina_widgets_headings_font_size";s:4:"18px";s:35:"malina_widgets_headings_font_family";s:6:"Alatsi";s:38:"malina_widgets_headings_letter_spacing";s:1:"1";s:33:"malina_widgets_headings_separator";s:6:"double";s:36:"malina_footer_instagram_access_token";s:0:"";s:20:"malina_footer_layout";s:8:"layout-4";s:30:"malina_footer_copyright_border";s:1:"1";s:18:"malina_footer_logo";s:1:"1";s:24:"malina_footer_logo_color";s:7:"#282b2f";s:23:"malina_footer_logo_size";s:3:"120";s:30:"malina_footer_logo_font_family";s:6:"Alatsi";s:23:"malina_footer_copyright";s:26:"© 2019 - made in new york";s:22:"malina_social_facebook";s:1:"#";s:21:"malina_social_twitter";s:1:"#";s:23:"malina_social_instagram";s:1:"#";s:23:"malina_social_goodreads";s:0:"";s:23:"malina_social_pinterest";s:1:"#";s:25:"malina_social_google_plus";s:1:"#";s:19:"malina_accent_color";s:7:"#1fc8be";s:18:"malina_links_color";s:7:"#1fc8be";s:29:"malina_footer_instagram_title";s:0:"";s:21:"malina_header_socials";s:0:"";s:22:"malina_footer_bg_color";s:7:"#f2f2f2";s:25:"malina_footer_top_padding";s:2:"55";s:28:"malina_footer_bottom_padding";s:2:"50";s:27:"malina_footer_socials_color";s:7:"#282b2f";s:33:"malina_footer_copyright_font_size";s:4:"13px";s:35:"malina_footer_copyright_font_family";s:6:"Alatsi";s:29:"malina_footer_copyright_color";s:7:"#9fa3a8";s:23:"malina_button_font_size";s:4:"14px";s:25:"malina_button_font_family";s:6:"Alatsi";s:25:"malina_button_font_weight";s:3:"400";s:27:"malina_button_border_radius";s:2:"24";s:31:"malina_button_loadmore_bg_color";s:7:"#212224";s:35:"malina_button_loadmore_border_color";s:7:"#212224";s:33:"malina_button_loadmore_text_color";s:7:"#ffffff";s:25:"malina_blog_excerpt_count";s:2:"30";s:21:"malina_body_font_size";s:4:"15px";s:23:"malina_body_line_height";s:4:"25px";s:23:"malina_body_font_family";s:4:"Lora";s:20:"malina_archive_style";s:9:"style_5_2";s:25:"malina_archive_post_count";s:1:"9";s:29:"malina_archive_elements_align";s:8:"textleft";s:29:"malina_archive_thumbnail_size";s:14:"post-thumbnail";s:25:"malina_single_post_layout";s:4:"wide";s:33:"malina_display_post_likes_archive";s:0:"";s:33:"malina_display_post_views_archive";s:1:"1";s:39:"malina_posts_headings_item_color_active";s:7:"#797d82";s:29:"malina_page_title_font_family";s:6:"Alatsi";s:29:"malina_page_title_font_weight";s:3:"400";s:19:"malina_search_style";s:9:"style_5_2";s:24:"malina_search_post_count";s:1:"9";s:32:"malina_display_post_likes_search";s:0:"";s:27:"malina_search_excerpt_count";s:2:"25";s:38:"malina_display_post_pagination_archive";s:4:"true";}s:7:"options";a:2:{s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:1933:".left-marg {
+	margin-left:-55px !important;
+	z-index:3;
+}
+.white-bg {
+	padding:38px;
+	background-color:#fff;
+}
+#header.header8 {
+	-webkit-box-shadow: 0px 2px 10px 0px rgba(0,0,0,0.18);
+-moz-box-shadow: 0px 2px 10px 0px rgba(0,0,0,0.18);
+box-shadow: 0px 2px 10px 0px rgba(0,0,0,0.18);
+}
+#header.header8 .logo {
+	padding-top:30px;
+	padding-bottom:19px;
+}
+.home #latest-posts #blog-posts-4 {
+	margin-bottom:60px;
+}
+#footer .social-icons li {
+	margin-right:54px;
+}
+.wpmm-grid-post-content .grid-post-title a {
+	font-weight:400 !important;
+}
+.wp-block-columns {
+	align-items:start;
+}
+.container {
+    max-width: 1274px;
+}
+.before-line {
+	font-family:Lora;
+	font-size:26px;
+	line-height:38px;
+}
+.before-line:before {
+    content: "";
+    height: 50px;
+    border: 1px solid #000;
+    margin-bottom: 50px;
+}
+#latest-posts #blog-posts-3.blog-posts .post.post-size .title h2 {
+	font-size:17px;
+}
+.widget .latest-blog-list + .latest-blog-list {
+    padding-top: 25px;
+    border-top: 1px solid #ededed;
+	margin-top:25px;
+}
+#sidebar .widget:nth-child(1) {
+    margin-bottom: 52px;
+    padding-bottom: 0;
+    background-image: none;
+}
+.widget_sliderposts .slider-item h3 {
+	font-size:17px;
+}
+.widget .latest-blog-list h4 {
+	font-size:15px;
+}
+.widget_bannerspot .banner-spot .bg-image img {
+	height:auto;
+}
+.widget_sliderposts {
+	margin-bottom:80px !important;
+}
+.wp-block-columns:last-child {
+	margin-bottom:0;
+}
+.home .wp-block-separator.is-style-Solid {
+	border:0 !important;
+	border-top: 1px solid #ededed !important;
+}
+#latest-posts #blog-posts-3.blog-posts {
+    margin-bottom: 0px;
+}
+#wp-megamenu-main_navigation>.wpmm-nav-wrap ul.wp-megamenu>li>a {
+	font-family:alatsi;
+}
+h4.has-text-color {
+	margin-bottom:25px;
+}
+#latest-posts .blog-posts .post.post-size:last-child {
+	margin-bottom:0 !important;
+}
+@media (min-width:769px){
+	.extra-pad-left {
+		padding-left:25px;
+	}
+}";}

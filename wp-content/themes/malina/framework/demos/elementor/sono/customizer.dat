@@ -1,0 +1,43 @@
+a:4:{s:8:"template";s:6:"malina";s:4:"mods";a:108:{i:0;b:0;s:18:"nav_menu_locations";a:2:{s:15:"main_navigation";i:7;s:17:"mobile_navigation";i:14;}s:18:"custom_css_post_id";i:56;s:19:"malina_blog_columns";s:5:"span4";s:26:"malina_blog_thumbnail_size";s:6:"medium";s:25:"malina_display_post_likes";s:0:"";s:25:"malina_display_post_views";s:0:"";s:29:"malina_display_post_read_time";s:0:"";s:25:"malina_blog_excerpt_count";s:2:"23";s:23:"malina_home_hero_slider";s:4:"none";s:28:"malina_single_post_meta_date";s:0:"";s:33:"malina_single_post_sicky_sharebox";s:0:"";s:30:"malina_single_post_author_info";s:1:"1";s:21:"malina_header_variant";s:15:"header-version8";s:31:"malina_posts_headings_font_size";s:2:"34";s:33:"malina_posts_headings_font_weight";s:3:"700";s:33:"malina_posts_headings_font_family";s:7:"Poppins";s:36:"malina_posts_headings_letter_spacing";s:1:"0";s:30:"malina_post_headings_transform";s:4:"none";s:32:"malina_meta_categories_font_size";s:4:"17px";s:34:"malina_meta_categories_font_family";s:11:"Inconsolata";s:32:"malina_meta_categories_transform";s:9:"lowercase";s:28:"malina_meta_categories_color";s:7:"#8d9095";s:21:"malina_body_font_size";s:4:"15px";s:23:"malina_body_line_height";s:4:"26px";s:17:"malina_body_color";s:7:"#696c6d";s:35:"malina_widgets_headings_font_family";s:11:"Inconsolata";s:38:"malina_widgets_headings_letter_spacing";s:1:"3";s:28:"malina_meta_info_font_family";s:11:"Inconsolata";s:19:"malina_accent_color";s:7:"#fffe01";s:18:"malina_links_color";s:7:"#fffe01";s:22:"malina_social_facebook";s:1:"#";s:21:"malina_social_twitter";s:1:"#";s:23:"malina_social_instagram";s:1:"#";s:33:"malina_header_bottom_border_width";s:1:"4";s:23:"malina_media_logo_width";s:2:"60";s:23:"malina_logo_font_family";s:11:"Inconsolata";s:23:"malina_logo_font_weight";s:3:"700";s:21:"malina_logo_transform";s:9:"lowercase";s:32:"malina_logo_title_letter_spacing";s:2:"15";s:30:"malina_media_logo_mobile_width";s:2:"25";s:26:"malina_header_border_color";s:7:"#2b2d30";s:18:"malina_sidebar_pos";s:4:"none";s:17:"malina_crop_large";s:1:"1";s:26:"malina_crop_post_thumbnail";s:0:"";s:22:"malina_archive_columns";s:5:"span4";s:30:"malina_display_post_pagination";s:4:"true";s:30:"malina_footer_copyright_border";s:0:"";s:22:"malina_footer_bg_image";s:0:"";s:29:"malina_footer_instagram_title";s:7:"@_cosmo";s:36:"malina_footer_instagram_access_token";s:51:"1419303453.1677ed0.b66f02fa92df4dc3b129af8a5c7c4134";s:35:"malina_button_loadmore_border_color";s:7:"#ffffff";s:25:"malina_button_font_family";s:11:"Inconsolata";s:25:"malina_button_font_weight";s:3:"600";s:23:"malina_body_font_family";s:7:"Poppins";s:34:"malina_meta_categories_color_hover";s:7:"#1c1c1c";s:39:"malina_posts_headings_item_color_active";s:7:"#cccccc";s:29:"malina_archive_thumbnail_size";s:6:"medium";s:33:"malina_display_post_likes_archive";s:0:"";s:33:"malina_display_post_views_archive";s:0:"";s:37:"malina_display_post_read_time_archive";s:0:"";s:26:"malina_sidebar_pos_archive";s:4:"none";s:21:"malina_menu_font_size";s:4:"17px";s:23:"malina_menu_font_family";s:11:"Inconsolata";s:23:"malina_menu_font_weight";s:3:"400";s:21:"malina_menu_transform";s:4:"none";s:26:"malina_menu_letter_spacing";s:1:"2";s:18:"malina_header_grid";s:9:"container";s:27:"malina_header_search_button";s:1:"1";s:30:"malina_header_top_border_width";s:1:"0";s:30:"malina_header_top_border_color";s:7:"#e5e6e8";s:26:"malina_meta_info_font_size";s:4:"15px";s:26:"malina_meta_info_transform";s:9:"lowercase";s:33:"malina_widgets_headings_font_size";s:4:"16px";s:35:"malina_widgets_headings_font_weight";s:3:"700";s:20:"malina_footer_layout";s:8:"layout-3";s:23:"malina_footer_copyright";s:26:"© 2019 - made in new york";s:29:"malina_footer_copyright_color";s:7:"#1c1d1f";s:18:"malina_footer_menu";s:1:"8";s:22:"malina_footer_bg_color";s:7:"#fffe01";s:33:"malina_footer_copyright_font_size";s:4:"15px";s:35:"malina_footer_copyright_font_family";s:4:"Lato";s:25:"malina_footer_top_padding";s:2:"11";s:28:"malina_footer_bottom_padding";s:2:"10";s:23:"malina_button_font_size";s:4:"13px";s:25:"malina_archive_post_count";s:2:"12";s:20:"malina_archive_style";s:7:"style_6";s:32:"malina_display_post_date_archive";s:0:"";s:29:"malina_archive_elements_align";s:8:"textleft";s:28:"malina_archive_excerpt_count";s:1:"0";s:16:"sidebars_widgets";a:2:{s:4:"time";i:1572534047;s:4:"data";a:5:{s:19:"wp_inactive_widgets";a:6:{i:0;s:8:"search-2";i:1;s:14:"recent-posts-2";i:2;s:17:"recent-comments-2";i:3;s:10:"archives-2";i:4;s:12:"categories-2";i:5;s:6:"meta-2";}s:12:"blog-widgets";a:0:{}s:14:"hidden-widgets";a:1:{i:0;s:10:"nav_menu-1";}s:14:"footer-widgets";a:2:{i:0;s:6:"text-2";i:1;s:6:"text-3";}s:4:"wpmm";a:0:{}}}s:17:"malina_blog_style";s:7:"style_6";s:26:"malina_blog_elements_align";s:8:"textleft";s:24:"malina_display_post_date";s:0:"";s:28:"malina_ignore_featured_posts";s:1:"1";s:32:"malina_display_post_likes_search";s:0:"";s:32:"malina_display_post_views_search";s:0:"";s:31:"malina_display_post_date_search";s:0:"";s:36:"malina_display_post_read_time_search";s:0:"";s:27:"malina_search_excerpt_count";s:1:"0";s:24:"malina_search_post_count";s:2:"12";s:21:"malina_search_columns";s:5:"span4";s:25:"malina_sidebar_pos_search";s:4:"none";s:27:"malina_page_title_font_size";s:2:"17";s:29:"malina_page_title_font_family";s:11:"Inconsolata";s:32:"malina_page_title_letter_spacing";s:1:"3";s:27:"malina_page_title_transform";s:9:"uppercase";s:25:"malina_single_post_layout";s:4:"wide";}s:7:"options";a:2:{s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:816:".meta-categories a:before,
+.categories-info li span:before {
+	content:"#";
+}
+.home.page-template-page-nosidebar #page-wrap {
+    padding-bottom: 0px;
+}
+.page-title h2 {
+    font-size: 16px;
+    margin-bottom: 32px;
+}
+.your-message .wpcf7-textarea {
+    height: 118px;
+}
+.meta-categories {
+	font-size:0;
+}
+.meta-categories a {
+	font-size:17px;
+	line-height:1em;
+}
+.meta-categories a + a {
+	display:none;
+}
+.page-title h2 {
+	margin-bottom:23px;
+}
+#page-wrap-blog {
+    padding: 23px 0 40px;
+}
+body.single-post #page-wrap-blog {
+  padding-bottom: 40px;
+	padding-top:40px;
+}
+body.single-post .post-content-container .meta-categories {
+	text-align:inherit;
+}
+body.single-post .post-content-container .title {
+	text-align:left;
+}
+#header.header8 #navigation-block.fixed-nav {
+	border-bottom:4px solid #2b2d30 !important;
+}";}

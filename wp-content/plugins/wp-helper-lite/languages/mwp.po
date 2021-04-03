@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: mwp-utilities/admin/settings/class-general.php:128
+msgid "Customer name"
+msgstr ""
+
+#. Text in echo
+#: mwp-utilities/admin/settings/class-general.php:127
+msgid "Enable/Disable Relative path for image"
+msgstr ""
+
+#. Text in function
+#: mwp-utilities/admin/settings/class-general.php:128
+msgid "General"
+msgstr ""
+
+#. Text in function
+#: mwp-utilities/admin/settings/class-general.php:128
+msgid "ID Mat Bao"
+msgstr ""
+
+#. Text in function
+#: mwp-utilities/admin/settings/class-general.php:128
+msgid "Relative path for image"
+msgstr ""
+
+#. Text in function
+#: mwp-utilities/admin/settings/class-social.php:1
+msgid "Social"
+msgstr ""

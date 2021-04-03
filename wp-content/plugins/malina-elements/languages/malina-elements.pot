@@ -1,0 +1,3770 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Malina 1.0\n"
+"POT-Creation-Date: 2020-06-22 22:47+0300\n"
+"PO-Revision-Date: 2020-03-05 19:23+0200\n"
+"Last-Translator: \n"
+"Language-Team: ArtstudioWorks\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-KeywordsList: _e;__;_x;_n;esc_html__;esc_html_e;esc_attr__;"
+"esc_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../inc/cpt-footer.php:6
+msgid "Malina Footers"
+msgstr ""
+
+#: ../inc/cpt-footer.php:7 ../inc/cpt-footer.php:20
+#: ../inc/vc-shortcodes.php:1093 ../inc/vc-shortcodes.php:1218
+msgid "Malina Footer"
+msgstr ""
+
+#: ../inc/cpt-footer.php:8
+msgid "Add New Footer"
+msgstr ""
+
+#: ../inc/cpt-footer.php:9 ../inc/cpt-footer.php:11
+msgid "Add New Footer Item"
+msgstr ""
+
+#: ../inc/cpt-footer.php:10
+msgid "Edit Footer Item"
+msgstr ""
+
+#: ../inc/cpt-footer.php:12
+msgid "View Footer"
+msgstr ""
+
+#: ../inc/cpt-footer.php:13
+msgid "Search Footer"
+msgstr ""
+
+#: ../inc/cpt-footer.php:14
+msgid "No footers found"
+msgstr ""
+
+#: ../inc/cpt-footer.php:15
+msgid "No footers found in trash"
+msgstr ""
+
+#: ../inc/cpt-header.php:6
+msgid "Malina Headers"
+msgstr ""
+
+#: ../inc/cpt-header.php:7 ../inc/cpt-header.php:20
+#: ../inc/vc-shortcodes.php:1093 ../inc/vc-shortcodes.php:1218
+msgid "Malina Header"
+msgstr ""
+
+#: ../inc/cpt-header.php:8
+msgid "Add New Header"
+msgstr ""
+
+#: ../inc/cpt-header.php:9 ../inc/cpt-header.php:11
+msgid "Add New Header Item"
+msgstr ""
+
+#: ../inc/cpt-header.php:10
+msgid "Edit Header Item"
+msgstr ""
+
+#: ../inc/cpt-header.php:12
+msgid "View Header"
+msgstr ""
+
+#: ../inc/cpt-header.php:13
+msgid "Search Header"
+msgstr ""
+
+#: ../inc/cpt-header.php:14
+msgid "No headers found"
+msgstr ""
+
+#: ../inc/cpt-header.php:15
+msgid "No headers found in trash"
+msgstr ""
+
+#: ../inc/elementor-widgets/elementor-helper.php:31
+#: ../inc/gutenberg/gutenberg-blocks.php:13 ../inc/vc-shortcodes.php:107
+#: ../inc/vc-shortcodes.php:326 ../inc/vc-shortcodes.php:579
+#: ../inc/vc-shortcodes.php:672 ../inc/vc-shortcodes.php:723
+#: ../inc/vc-shortcodes.php:1066 ../inc/vc-shortcodes.php:1306
+#: ../inc/vc-shortcodes.php:1378 ../inc/vc-shortcodes.php:1454
+#: ../inc/vc-shortcodes.php:1473
+msgid "Malina Elements"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-category.php:32
+#: ../inc/gutenberg/blocks/category/block.js:16 ../inc/vc-shortcodes.php:1375
+msgid "Malina Category"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-category.php:70
+msgid "Malina Category Block"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-category.php:76
+#: ../inc/elementor-widgets/widgets/block-instagram.php:76
+#: ../inc/elementor-widgets/widgets/block-latestposts.php:39
+#: ../inc/elementor-widgets/widgets/block-latestposts.php:84
+#: ../inc/elementor-widgets/widgets/block-septitle.php:76
+#: ../inc/elementor-widgets/widgets/posts-slider.php:130
+#: ../inc/elementor-widgets/widgets/recent-posts.php:164
+#: ../inc/gutenberg/blocks/gridposts/block.js:15
+#: ../inc/gutenberg/blocks/instagram/block.js:40
+#: ../inc/gutenberg/blocks/separator-title/block.js:42
+#: ../inc/gutenberg/blocks/slider/block.js:26 ../inc/meta-boxes.php:280
+#: ../inc/meta-boxes.php:414 ../inc/vc-shortcodes.php:201
+#: ../inc/vc-shortcodes.php:412 ../inc/vc-shortcodes.php:638
+#: ../inc/vc-shortcodes.php:1311 ../inc/widgets/recentposts.php:146
+#: ../inc/widgets/recentposts.php:233 ../inc/widgets/sliderposts.php:151
+#: ../inc/widgets/sliderposts.php:276
+msgid "Title"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-category.php:77
+msgid "Input button title"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-category.php:85
+msgid "Button URL"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-category.php:86
+msgid "Enter button URL."
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-category.php:94
+#: ../inc/elementor-widgets/widgets/block-teammember.php:86
+#: ../inc/elementor-widgets/widgets/block-videopopup.php:75
+msgid "Select image"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-category.php:95
+msgid "Select image for block."
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-category.php:105
+#: ../inc/gutenberg/blocks/category/block.js:59
+msgid "Image height"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-category.php:108
+#: ../inc/widgets/aboutme.php:142
+msgid "Portrait"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-category.php:109
+msgid "Landscape"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-catinfo.php:32
+#: ../inc/elementor-widgets/widgets/block-catinfo.php:70
+#: ../inc/gutenberg/blocks/catinfo/block.js:16
+msgid "Malina Categories Info"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-catinfo.php:84
+#: ../inc/elementor-widgets/widgets/recent-posts.php:123
+#: ../inc/vc-shortcodes.php:1459
+msgid "Categories"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-catinfo.php:85
+#: ../inc/vc-shortcodes.php:1462
+msgid "Select categories to show."
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-instagram.php:32
+msgid "Malina instagram"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-instagram.php:70
+msgid "Instagram block"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-instagram.php:77
+msgid "Enter title for instagram. Leave blank to hide."
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-instagram.php:85
+msgid "Access Token Key"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-instagram.php:86
+#: ../inc/vc-shortcodes.php:1323 ../inc/widgets/instagram-new.php:186
+msgid "Get your Access Token"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-instagram.php:94
+#: ../inc/gutenberg/blocks/instagram/block.js:52 ../inc/vc-shortcodes.php:1327
+msgid "Items count"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-instagram.php:102
+#: ../inc/gutenberg/blocks/instagram/block.js:58 ../inc/vc-shortcodes.php:1334
+msgid "Items per row"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-instagram.php:103
+#: ../inc/vc-shortcodes.php:1328
+msgid "Max items count is 20."
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-instagram.php:106
+#: ../inc/gutenberg/blocks/instagram/block.js:11 ../inc/vc-shortcodes.php:1337
+msgid "One per row"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-instagram.php:107
+#: ../inc/gutenberg/blocks/instagram/block.js:12
+msgid "Two per row"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-instagram.php:108
+#: ../inc/gutenberg/blocks/instagram/block.js:13 ../inc/meta-boxes.php:599
+#: ../inc/vc-shortcodes.php:1339
+msgid "Three per row"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-instagram.php:109
+#: ../inc/gutenberg/blocks/instagram/block.js:14 ../inc/vc-shortcodes.php:1340
+msgid "Four per row"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-instagram.php:110
+msgid "Five per row"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-instagram.php:111
+#: ../inc/vc-shortcodes.php:1341
+msgid "Six per row"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-instagram.php:119
+#: ../inc/vc-shortcodes.php:1348
+msgid "Follow link"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-instagram.php:122
+#: ../inc/elementor-widgets/widgets/block-latestposts.php:116
+#: ../inc/elementor-widgets/widgets/block-latestposts.php:128
+#: ../inc/elementor-widgets/widgets/posts-slider.php:205
+#: ../inc/elementor-widgets/widgets/posts-slider.php:277
+#: ../inc/elementor-widgets/widgets/posts-slider.php:289
+#: ../inc/elementor-widgets/widgets/recent-posts.php:256
+#: ../inc/elementor-widgets/widgets/recent-posts.php:268
+#: ../inc/elementor-widgets/widgets/recent-posts.php:280
+#: ../inc/elementor-widgets/widgets/recent-posts.php:293
+#: ../inc/elementor-widgets/widgets/recent-posts.php:305
+#: ../inc/elementor-widgets/widgets/recent-posts.php:317
+#: ../inc/elementor-widgets/widgets/recent-posts.php:329
+#: ../inc/elementor-widgets/widgets/single-post.php:69
+#: ../inc/gutenberg/blocks/gridposts/block.js:65 ../inc/meta-boxes.php:557
+#: ../inc/vc-shortcodes.php:262 ../inc/vc-shortcodes.php:273
+#: ../inc/vc-shortcodes.php:284 ../inc/vc-shortcodes.php:294
+#: ../inc/vc-shortcodes.php:304 ../inc/vc-shortcodes.php:523
+#: ../inc/vc-shortcodes.php:1350 ../inc/widgets/recentposts.php:260
+#: ../inc/widgets/recentposts.php:283 ../inc/widgets/recentposts.php:306
+msgid "Hide"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-instagram.php:123
+#: ../inc/elementor-widgets/widgets/block-latestposts.php:115
+#: ../inc/elementor-widgets/widgets/block-latestposts.php:127
+#: ../inc/elementor-widgets/widgets/posts-slider.php:204
+#: ../inc/elementor-widgets/widgets/posts-slider.php:276
+#: ../inc/elementor-widgets/widgets/posts-slider.php:288
+#: ../inc/elementor-widgets/widgets/recent-posts.php:255
+#: ../inc/elementor-widgets/widgets/recent-posts.php:267
+#: ../inc/elementor-widgets/widgets/recent-posts.php:279
+#: ../inc/elementor-widgets/widgets/recent-posts.php:291
+#: ../inc/elementor-widgets/widgets/recent-posts.php:304
+#: ../inc/elementor-widgets/widgets/recent-posts.php:316
+#: ../inc/elementor-widgets/widgets/recent-posts.php:328
+#: ../inc/elementor-widgets/widgets/single-post.php:68
+#: ../inc/gutenberg/blocks/gridposts/block.js:63 ../inc/meta-boxes.php:556
+#: ../inc/vc-shortcodes.php:261 ../inc/vc-shortcodes.php:272
+#: ../inc/vc-shortcodes.php:283 ../inc/vc-shortcodes.php:293
+#: ../inc/vc-shortcodes.php:303 ../inc/vc-shortcodes.php:523
+#: ../inc/vc-shortcodes.php:1350 ../inc/widgets/recentposts.php:259
+#: ../inc/widgets/recentposts.php:282 ../inc/widgets/recentposts.php:305
+msgid "Show"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-instagram.php:131
+#: ../inc/gutenberg/blocks/instagram/block.js:74 ../inc/vc-shortcodes.php:1356
+msgid "Link image to:"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-instagram.php:134
+#: ../inc/gutenberg/blocks/instagram/block.js:19 ../inc/vc-shortcodes.php:1358
+msgid "Lightbox"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-instagram.php:135
+#: ../inc/gutenberg/blocks/instagram/block.js:20 ../inc/vc-shortcodes.php:1358
+msgid "Link to instagram"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-latestposts.php:10
+#: ../inc/elementor-widgets/widgets/block-latestposts.php:33
+msgid "Malina Widget Latest Posts"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-latestposts.php:40
+#: ../inc/gutenberg/blocks/instagram/block.js:41
+msgid "Enter title. Leave blank to hide."
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-latestposts.php:48
+#: ../inc/widgets/recentposts.php:164
+msgid "Layout"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-latestposts.php:51
+#: ../inc/widgets/recentposts.php:166
+msgid "Simple list"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-latestposts.php:52
+#: ../inc/widgets/recentposts.php:167
+msgid "Thumbnail & title"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-latestposts.php:60
+#: ../inc/elementor-widgets/widgets/recent-posts.php:79
+#: ../inc/gutenberg/blocks/slider/block.js:97 ../inc/meta-boxes.php:502
+#: ../inc/meta-boxes.php:582
+msgid "Posts count"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-latestposts.php:61
+#: ../inc/elementor-widgets/widgets/recent-posts.php:80
+msgid "Enter number of post to display (Note: Enter -1 to display all posts)."
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-latestposts.php:69
+#: ../inc/widgets/recentposts.php:176
+msgid "How many words show?"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-latestposts.php:77
+#: ../inc/elementor-widgets/widgets/posts-slider.php:123
+#: ../inc/elementor-widgets/widgets/recent-posts.php:157
+#: ../inc/gutenberg/blocks/gridposts/block.js:177
+#: ../inc/gutenberg/blocks/slider/block.js:121 ../inc/meta-boxes.php:511
+#: ../inc/vc-shortcodes.php:195 ../inc/vc-shortcodes.php:406
+#: ../inc/vc-shortcodes.php:632 ../inc/widgets/recentposts.php:231
+#: ../inc/widgets/sliderposts.php:274
+msgid "Order by"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-latestposts.php:79
+#: ../inc/elementor-widgets/widgets/posts-slider.php:125
+#: ../inc/elementor-widgets/widgets/recent-posts.php:159
+#: ../inc/gutenberg/blocks/gridposts/block.js:178
+#: ../inc/gutenberg/blocks/slider/block.js:122 ../inc/vc-shortcodes.php:205
+#: ../inc/vc-shortcodes.php:416 ../inc/vc-shortcodes.php:642
+msgid "Select how to sort retrieved posts."
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-latestposts.php:81
+#: ../inc/elementor-widgets/widgets/posts-slider.php:127
+#: ../inc/elementor-widgets/widgets/recent-posts.php:161
+#: ../inc/gutenberg/blocks/gridposts/block.js:12
+#: ../inc/gutenberg/blocks/slider/block.js:23 ../inc/meta-boxes.php:412
+#: ../inc/vc-shortcodes.php:198 ../inc/vc-shortcodes.php:409
+#: ../inc/vc-shortcodes.php:635 ../inc/widgets/recentposts.php:235
+#: ../inc/widgets/sliderposts.php:278
+msgid "Date"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-latestposts.php:82
+#: ../inc/elementor-widgets/widgets/posts-slider.php:128
+#: ../inc/elementor-widgets/widgets/recent-posts.php:162
+#: ../inc/gutenberg/blocks/gridposts/block.js:13
+#: ../inc/gutenberg/blocks/slider/block.js:24 ../inc/vc-shortcodes.php:199
+#: ../inc/vc-shortcodes.php:410 ../inc/vc-shortcodes.php:636
+msgid "Last modified date"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-latestposts.php:83
+#: ../inc/elementor-widgets/widgets/posts-slider.php:129
+#: ../inc/elementor-widgets/widgets/recent-posts.php:163
+#: ../inc/gutenberg/blocks/gridposts/block.js:14
+#: ../inc/gutenberg/blocks/slider/block.js:25 ../inc/meta-boxes.php:413
+#: ../inc/vc-shortcodes.php:200 ../inc/vc-shortcodes.php:411
+#: ../inc/vc-shortcodes.php:637
+msgid "Popularity"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-latestposts.php:85
+#: ../inc/elementor-widgets/widgets/posts-slider.php:131
+#: ../inc/elementor-widgets/widgets/recent-posts.php:165
+#: ../inc/gutenberg/blocks/gridposts/block.js:16
+#: ../inc/gutenberg/blocks/slider/block.js:27 ../inc/meta-boxes.php:415
+#: ../inc/vc-shortcodes.php:202 ../inc/vc-shortcodes.php:413
+#: ../inc/vc-shortcodes.php:639
+msgid "Random"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-latestposts.php:94
+#: ../inc/elementor-widgets/widgets/posts-slider.php:141
+#: ../inc/elementor-widgets/widgets/recent-posts.php:175
+msgid "Posts Order"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-latestposts.php:98
+#: ../inc/elementor-widgets/widgets/posts-slider.php:145
+#: ../inc/elementor-widgets/widgets/recent-posts.php:179
+msgid "descending"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-latestposts.php:102
+#: ../inc/elementor-widgets/widgets/posts-slider.php:149
+#: ../inc/elementor-widgets/widgets/recent-posts.php:183
+msgid "ascending"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-latestposts.php:112
+#: ../inc/widgets/recentposts.php:257
+msgid "Show category?"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-latestposts.php:124
+msgid "Show meta info?"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-latestposts.php:136
+#: ../inc/widgets/aboutme.php:137
+msgid "Image style"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-latestposts.php:139
+#: ../inc/elementor-widgets/widgets/block-menu.php:74
+#: ../inc/elementor-widgets/widgets/block-menu.php:99
+#: ../inc/elementor-widgets/widgets/block-posttitle.php:79
+#: ../inc/meta-boxes.php:44 ../inc/meta-boxes.php:63 ../inc/meta-boxes.php:91
+#: ../inc/meta-boxes.php:300 ../inc/vc-shortcodes.php:97
+#: ../inc/vc-shortcodes.php:1081 ../inc/widgets/recentposts.php:144
+msgid "Default"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-latestposts.php:140
+#: ../inc/widgets/recentposts.php:144
+msgid "Rounded"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-latestposts.php:141
+#: ../inc/elementor-widgets/widgets/block-socials.php:109
+#: ../inc/vc-shortcodes.php:992 ../inc/widgets/aboutme.php:140
+#: ../inc/widgets/recentposts.php:144
+msgid "Circle"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-logo.php:32
+#: ../inc/vc-shortcodes.php:1215
+msgid "Malina Logo"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-logo.php:70
+msgid "Logo"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-logo.php:76
+#: ../inc/vc-shortcodes.php:1223
+msgid "Text logo"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-logo.php:77
+#: ../inc/elementor-widgets/widgets/block-logo.php:125
+#: ../inc/vc-shortcodes.php:1226 ../inc/vc-shortcodes.php:1271
+msgid "Leave blank to use your default logo."
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-logo.php:85
+#: ../inc/vc-shortcodes.php:1230
+msgid "Use default theme settings"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-logo.php:86
+#: ../inc/vc-shortcodes.php:1237
+msgid "Leave blank to use your default logo font."
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-logo.php:89
+#: ../inc/elementor-widgets/widgets/block-menu.php:170
+#: ../inc/meta-boxes.php:529 ../inc/meta-boxes.php:631
+#: ../inc/meta-boxes.php:648 ../inc/meta-boxes.php:658
+#: ../inc/meta-boxes.php:669 ../inc/vc-shortcodes.php:150
+#: ../inc/vc-shortcodes.php:499 ../inc/vc-shortcodes.php:507
+#: ../inc/vc-shortcodes.php:515 ../inc/vc-shortcodes.php:530
+#: ../inc/vc-shortcodes.php:537 ../inc/vc-shortcodes.php:558
+#: ../inc/vc-shortcodes.php:566 ../inc/vc-shortcodes.php:694
+#: ../inc/vc-shortcodes.php:1112 ../inc/vc-shortcodes.php:1193
+#: ../inc/vc-shortcodes.php:1233 ../inc/widgets/twitter.php:219
+msgid "Yes"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-logo.php:90
+#: ../inc/elementor-widgets/widgets/block-menu.php:171
+#: ../inc/meta-boxes.php:530 ../inc/meta-boxes.php:632
+#: ../inc/meta-boxes.php:649 ../inc/meta-boxes.php:659
+#: ../inc/meta-boxes.php:668 ../inc/vc-shortcodes.php:151
+#: ../inc/vc-shortcodes.php:499 ../inc/vc-shortcodes.php:507
+#: ../inc/vc-shortcodes.php:515 ../inc/vc-shortcodes.php:530
+#: ../inc/vc-shortcodes.php:537 ../inc/vc-shortcodes.php:558
+#: ../inc/vc-shortcodes.php:566 ../inc/vc-shortcodes.php:694
+#: ../inc/vc-shortcodes.php:1113 ../inc/vc-shortcodes.php:1194
+#: ../inc/vc-shortcodes.php:1234 ../inc/widgets/twitter.php:220
+msgid "No"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-logo.php:99
+#: ../inc/elementor-widgets/widgets/block-menu.php:109
+#: ../inc/elementor-widgets/widgets/block-posttitle.php:88
+#: ../inc/elementor-widgets/widgets/block-quote.php:124
+msgid "Typography"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-logo.php:109
+msgid "Logo text color"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-logo.php:124
+msgid "Logo image"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-logo.php:136
+#: ../inc/vc-shortcodes.php:1275
+msgid "Logo image width"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-logo.php:137
+#: ../inc/vc-shortcodes.php:1278
+msgid "Enter value, you can use px, %, em, etc."
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-logo.php:148
+msgid "Align logo"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-logo.php:151
+#: ../inc/elementor-widgets/widgets/block-menu.php:156
+#: ../inc/elementor-widgets/widgets/block-quote.php:113
+#: ../inc/elementor-widgets/widgets/block-septitle.php:104
+#: ../inc/elementor-widgets/widgets/block-socials.php:229
+#: ../inc/elementor-widgets/widgets/recent-posts.php:233
+#: ../inc/gutenberg/blocks/gridposts/block.js:58
+#: ../inc/gutenberg/blocks/separator-title/block.js:11
+#: ../inc/gutenberg/blocks/socials/block.js:14
+#: ../inc/gutenberg/blocks/subscribe/block.js:14 ../inc/meta-boxes.php:131
+#: ../inc/meta-boxes.php:395 ../inc/vc-shortcodes.php:488
+#: ../inc/vc-shortcodes.php:1054 ../inc/vc-shortcodes.php:1184
+#: ../inc/vc-shortcodes.php:1287
+msgid "Left"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-logo.php:152
+#: ../inc/elementor-widgets/widgets/block-menu.php:157
+#: ../inc/elementor-widgets/widgets/block-quote.php:114
+#: ../inc/elementor-widgets/widgets/block-septitle.php:105
+#: ../inc/elementor-widgets/widgets/block-socials.php:230
+#: ../inc/elementor-widgets/widgets/recent-posts.php:234
+#: ../inc/gutenberg/blocks/gridposts/block.js:59
+#: ../inc/gutenberg/blocks/separator-title/block.js:12
+#: ../inc/gutenberg/blocks/socials/block.js:15
+#: ../inc/gutenberg/blocks/subscribe/block.js:15 ../inc/meta-boxes.php:130
+#: ../inc/meta-boxes.php:396 ../inc/vc-shortcodes.php:489
+#: ../inc/vc-shortcodes.php:1052 ../inc/vc-shortcodes.php:1183
+#: ../inc/vc-shortcodes.php:1286
+msgid "Center"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-logo.php:153
+#: ../inc/elementor-widgets/widgets/block-menu.php:158
+#: ../inc/elementor-widgets/widgets/block-quote.php:115
+#: ../inc/elementor-widgets/widgets/block-septitle.php:106
+#: ../inc/elementor-widgets/widgets/block-socials.php:231
+#: ../inc/elementor-widgets/widgets/recent-posts.php:235
+#: ../inc/gutenberg/blocks/gridposts/block.js:60
+#: ../inc/gutenberg/blocks/separator-title/block.js:13
+#: ../inc/gutenberg/blocks/socials/block.js:16
+#: ../inc/gutenberg/blocks/subscribe/block.js:16 ../inc/meta-boxes.php:132
+#: ../inc/meta-boxes.php:397 ../inc/vc-shortcodes.php:490
+#: ../inc/vc-shortcodes.php:1053 ../inc/vc-shortcodes.php:1182
+#: ../inc/vc-shortcodes.php:1285
+msgid "Right"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-menu.php:32
+#: ../inc/elementor-widgets/widgets/block-menu.php:70
+#: ../inc/gutenberg/blocks/menu/block.js:17
+#: ../inc/gutenberg/blocks/menu/block.js:31 ../inc/vc-shortcodes.php:1090
+msgid "Malina Menu"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-menu.php:84
+msgid "Menu Place"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-menu.php:87
+msgid "Menu for header"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-menu.php:88
+msgid "Menu for footer"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-menu.php:96
+msgid "Menu settings"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-menu.php:100
+#: ../inc/elementor-widgets/widgets/block-posttitle.php:78
+msgid "Custom"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-menu.php:119
+msgid "Menu item color initial"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-menu.php:136
+msgid "Menu items color hover"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-menu.php:153
+#: ../inc/gutenberg/blocks/menu/block.js:48
+msgid "Menu Position"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-menu.php:166
+#: ../inc/vc-shortcodes.php:1190
+msgid "Enable search icon?"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-menu.php:167
+#: ../inc/vc-shortcodes.php:1197
+msgid "Enable search icon to show at the end of the menu."
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-menu.php:198
+msgid "Search..."
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-posttitle.php:32
+msgid "Malina Post Title Block"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-posttitle.php:70
+msgid "Post title block"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-posttitle.php:76
+msgid "Title font"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-quote.php:32
+#: ../inc/elementor-widgets/widgets/block-quote.php:70
+msgid "Malina Quote"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-quote.php:76
+#: ../inc/meta-boxes.php:244
+msgid "Quote text"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-quote.php:84
+msgid "Quote Author"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-quote.php:85
+msgid "Leave empty if you need not."
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-quote.php:93
+msgid "Quote style"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-quote.php:94
+msgid "Please select form from \"Contact form 7\" plugin."
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-quote.php:97
+#: ../inc/elementor-widgets/widgets/posts-slider.php:187
+#: ../inc/gutenberg/blocks/slider/block.js:39 ../inc/vc-shortcodes.php:245
+msgid "Style 1"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-quote.php:98
+#: ../inc/elementor-widgets/widgets/posts-slider.php:188
+#: ../inc/gutenberg/blocks/slider/block.js:40 ../inc/vc-shortcodes.php:246
+msgid "Style 2"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-quote.php:99
+#: ../inc/elementor-widgets/widgets/posts-slider.php:189
+#: ../inc/gutenberg/blocks/slider/block.js:41 ../inc/vc-shortcodes.php:247
+msgid "Style 3"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-quote.php:100
+#: ../inc/elementor-widgets/widgets/posts-slider.php:190
+#: ../inc/gutenberg/blocks/slider/block.js:42 ../inc/vc-shortcodes.php:248
+msgid "Style 4"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-quote.php:101
+#: ../inc/elementor-widgets/widgets/posts-slider.php:191
+#: ../inc/gutenberg/blocks/slider/block.js:43 ../inc/vc-shortcodes.php:249
+msgid "Style 5"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-quote.php:109
+#: ../inc/elementor-widgets/widgets/block-septitle.php:85
+#: ../inc/vc-shortcodes.php:131 ../inc/vc-shortcodes.php:349
+msgid "Select title size"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-quote.php:110
+msgid "Please select title size."
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-quote.php:131
+#: ../inc/elementor-widgets/widgets/block-socials.php:193
+#: ../inc/vc-shortcodes.php:1035
+msgid "Text color"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-quote.php:143
+msgid "Border color"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-septitle.php:32
+#: ../inc/elementor-widgets/widgets/block-septitle.php:70
+msgid "Malina Title Separator"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-septitle.php:77
+msgid "Enter your title"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-septitle.php:88
+#: ../inc/elementor-widgets/widgets/posts-slider.php:78
+#: ../inc/elementor-widgets/widgets/recent-posts.php:65
+#: ../inc/vc-shortcodes.php:124 ../inc/vc-shortcodes.php:342
+msgid "H1"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-septitle.php:89
+#: ../inc/elementor-widgets/widgets/posts-slider.php:79
+#: ../inc/elementor-widgets/widgets/recent-posts.php:66
+#: ../inc/vc-shortcodes.php:125 ../inc/vc-shortcodes.php:343
+msgid "H2"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-septitle.php:90
+#: ../inc/elementor-widgets/widgets/posts-slider.php:80
+#: ../inc/elementor-widgets/widgets/recent-posts.php:67
+#: ../inc/vc-shortcodes.php:126 ../inc/vc-shortcodes.php:344
+msgid "H3"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-septitle.php:91
+#: ../inc/elementor-widgets/widgets/posts-slider.php:81
+#: ../inc/elementor-widgets/widgets/recent-posts.php:68
+#: ../inc/vc-shortcodes.php:127 ../inc/vc-shortcodes.php:345
+msgid "H4"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-septitle.php:92
+#: ../inc/elementor-widgets/widgets/posts-slider.php:82
+#: ../inc/elementor-widgets/widgets/recent-posts.php:69
+#: ../inc/vc-shortcodes.php:128 ../inc/vc-shortcodes.php:346
+msgid "H5"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-septitle.php:93
+#: ../inc/elementor-widgets/widgets/posts-slider.php:83
+#: ../inc/elementor-widgets/widgets/recent-posts.php:70
+#: ../inc/vc-shortcodes.php:129 ../inc/vc-shortcodes.php:347
+msgid "H6"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-septitle.php:101
+msgid "Select title alignment"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-sidebar.php:32
+#: ../inc/gutenberg/blocks/sidebar/block.js:13
+msgid "Malina Sidebar"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-socials.php:32
+#: ../inc/vc-shortcodes.php:720
+msgid "Malina Socials"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-socials.php:70
+msgid "Socials block"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-socials.php:77
+msgid "Icons links"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-socials.php:80
+msgid "From Theme Options"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-socials.php:81
+#: ../inc/vc-shortcodes.php:730
+msgid "Custom links"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-socials.php:92
+msgid "Enter link to your social account. Leave empty to hide this link."
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-socials.php:104
+#: ../inc/vc-shortcodes.php:987
+msgid "Icons style"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-socials.php:107
+#: ../inc/elementor-widgets/widgets/posts-slider.php:172
+#: ../inc/elementor-widgets/widgets/recent-posts.php:197
+#: ../inc/gutenberg/blocks/gridposts/block.js:20
+#: ../inc/gutenberg/blocks/slider/block.js:48
+#: ../inc/gutenberg/blocks/socials/block.js:19 ../inc/meta-boxes.php:597
+#: ../inc/vc-shortcodes.php:234 ../inc/vc-shortcodes.php:435
+#: ../inc/vc-shortcodes.php:990
+msgid "Simple"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-socials.php:108
+#: ../inc/vc-shortcodes.php:991
+msgid "Simple + Text"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-socials.php:110
+#: ../inc/vc-shortcodes.php:993 ../inc/widgets/aboutme.php:141
+msgid "Square"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-socials.php:118
+msgid "Icons size in px"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-socials.php:139
+#: ../inc/vc-shortcodes.php:1010
+msgid "Icon color initial"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-socials.php:151
+#: ../inc/vc-shortcodes.php:1017
+msgid "Icon color hover"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-socials.php:163
+#: ../inc/vc-shortcodes.php:999
+msgid "Icon background color"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-socials.php:178
+#: ../inc/vc-shortcodes.php:1024
+msgid "Icon background color hover"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-socials.php:205
+msgid "Space between icons"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-socials.php:226
+#: ../inc/gutenberg/blocks/socials/block.js:56
+msgid "Align icons"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-teammember.php:32
+#: ../inc/elementor-widgets/widgets/block-teammember.php:70
+#: ../inc/vc-shortcodes.php:1470
+msgid "Malina Team Member"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-teammember.php:76
+#: ../inc/elementor-widgets/widgets/subscribe.php:90
+#: ../inc/gutenberg/blocks/subscribe/subscribe.php:73
+#: ../inc/gutenberg/blocks/teammember/block.js:39
+msgid "Name"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-teammember.php:77
+msgid "Please enter member name."
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-teammember.php:85
+#: ../inc/vc-shortcodes.php:1484
+msgid "Member image"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-teammember.php:96
+#: ../inc/gutenberg/blocks/teammember/block.js:64
+msgid "Position"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-teammember.php:97
+msgid "Please enter member position."
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-teammember.php:105
+msgid "Url"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-teammember.php:106
+msgid "Please enter url if you need."
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-videopopup.php:9
+msgid "Malina Video Popup"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-videopopup.php:59
+#: ../inc/elementor-widgets/widgets/posts-slider.php:61
+#: ../inc/vc-shortcodes.php:104
+msgid "Malina Posts Slider"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-videopopup.php:65
+msgid "Video url"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-videopopup.php:66
+msgid "Enter video url. Self-hosted video, from Youtube or Vimeo."
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-videopopup.php:74
+#: ../inc/elementor-widgets/widgets/block-videopopup.php:85
+msgid "Placeholder image"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/block-videopopup.php:87
+msgid "Select your image size."
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/contactform.php:32
+#: ../inc/gutenberg/blocks/contactform/block.js:13
+msgid "Malina Contact Form"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/contactform.php:70
+msgid "Malina ContactForm"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/contactform.php:76
+msgid "Select form to display"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/contactform.php:77
+msgid "Please select form. It works with WPForms and Contact Form 7"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/contactform.php:103
+msgid ""
+"You need to install&activate \"WPForms\" or \"Contact Form 7\" plugin, then "
+"create form."
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/google-map.php:32
+#: ../inc/gutenberg/blocks/map/block.js:19
+msgid "Malina Google Map"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/google-map.php:70
+msgid "Malina Google map"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/google-map.php:77
+msgid "Location"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/google-map.php:78
+msgid "Enter your location."
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/google-map.php:86
+#: ../inc/gutenberg/blocks/map/block.js:49
+msgid "Map style"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/google-map.php:87
+msgid "Select google map style."
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/google-map.php:90
+#: ../inc/gutenberg/blocks/map/block.js:12
+msgid "Blue water"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/google-map.php:91
+#: ../inc/gutenberg/blocks/map/block.js:13
+msgid "Simple grayscale"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/google-map.php:92
+#: ../inc/gutenberg/blocks/map/block.js:14
+msgid "Light monochrome"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/google-map.php:93
+#: ../inc/gutenberg/blocks/map/block.js:15
+msgid "Dark theme"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/google-map.php:101
+#: ../inc/gutenberg/blocks/map/block.js:56
+msgid "Map marker"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/google-map.php:102
+msgid ""
+"Select image for your map location icon. Leave blank to use default marker."
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/google-map.php:112
+#: ../inc/gutenberg/blocks/map/block.js:74
+msgid "Map height"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/google-map.php:113
+msgid "Enter your map height"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/posts-slider.php:11
+msgid "Malina posts slider"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/posts-slider.php:67
+#: ../inc/elementor-widgets/widgets/recent-posts.php:54
+#: ../inc/elementor-widgets/widgets/subscribe.php:40
+#: ../inc/gutenberg/blocks/gridposts/block.js:108
+#: ../inc/gutenberg/blocks/slider/block.js:83 ../inc/vc-shortcodes.php:113
+#: ../inc/vc-shortcodes.php:331
+msgid "Block title"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/posts-slider.php:68
+#: ../inc/elementor-widgets/widgets/recent-posts.php:55
+#: ../inc/gutenberg/blocks/gridposts/block.js:109
+#: ../inc/gutenberg/blocks/slider/block.js:84 ../inc/vc-shortcodes.php:117
+#: ../inc/vc-shortcodes.php:335
+msgid "Enter block title. Leave blank to hide."
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/posts-slider.php:76
+#: ../inc/elementor-widgets/widgets/recent-posts.php:63
+#: ../inc/gutenberg/blocks/gridposts/block.js:115
+#: ../inc/gutenberg/blocks/slider/block.js:90 ../inc/vc-shortcodes.php:121
+#: ../inc/vc-shortcodes.php:339
+msgid "Block title size"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/posts-slider.php:92
+#: ../inc/vc-shortcodes.php:169
+msgid "Slider count"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/posts-slider.php:93
+msgid ""
+"Enter number of slides to display (Note: Enter -1 to display all slides)."
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/posts-slider.php:102
+#: ../inc/elementor-widgets/widgets/recent-posts.php:134
+#: ../inc/elementor-widgets/widgets/single-post.php:40
+#: ../inc/gutenberg/blocks/gridposts/block.js:160
+#: ../inc/gutenberg/blocks/slider/block.js:104 ../inc/meta-boxes.php:488
+#: ../inc/meta-boxes.php:567 ../inc/vc-shortcodes.php:383
+#: ../inc/vc-shortcodes.php:620
+msgid "Select posts to show"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/posts-slider.php:103
+#: ../inc/elementor-widgets/widgets/recent-posts.php:135
+#: ../inc/elementor-widgets/widgets/single-post.php:41
+msgid "Leave empty to show recent posts."
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/posts-slider.php:113
+#: ../inc/gutenberg/blocks/catinfo/block.js:41
+#: ../inc/gutenberg/blocks/gridposts/block.js:151
+#: ../inc/gutenberg/blocks/slider/block.js:113
+msgid "Select categories to show"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/posts-slider.php:132
+#: ../inc/elementor-widgets/widgets/recent-posts.php:166
+#: ../inc/gutenberg/blocks/gridposts/block.js:17
+#: ../inc/gutenberg/blocks/slider/block.js:28 ../inc/meta-boxes.php:411
+#: ../inc/vc-shortcodes.php:203 ../inc/vc-shortcodes.php:414
+#: ../inc/vc-shortcodes.php:640 ../inc/widgets/sliderposts.php:281
+msgid "Preserve post ID order"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/posts-slider.php:159
+#: ../inc/elementor-widgets/widgets/recent-posts.php:218
+#: ../inc/elementor-widgets/widgets/single-post.php:55
+#: ../inc/meta-boxes.php:620 ../inc/vc-shortcodes.php:221
+msgid "Image size"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/posts-slider.php:161
+#: ../inc/vc-shortcodes.php:224
+msgid "Select your image size to use in slider."
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/posts-slider.php:169
+#: ../inc/gutenberg/blocks/slider/block.js:147 ../inc/vc-shortcodes.php:229
+msgid "Slider Style"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/posts-slider.php:173
+#: ../inc/gutenberg/blocks/slider/block.js:49 ../inc/meta-boxes.php:595
+#: ../inc/vc-shortcodes.php:232
+msgid "Centered"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/posts-slider.php:174
+msgid "Two Centered3"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/posts-slider.php:175
+#: ../inc/gutenberg/blocks/slider/block.js:51 ../inc/meta-boxes.php:598
+#: ../inc/vc-shortcodes.php:235
+msgid "Two in row"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/posts-slider.php:176
+#: ../inc/gutenberg/blocks/slider/block.js:52 ../inc/vc-shortcodes.php:236
+msgid "Three in row"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/posts-slider.php:184
+#: ../inc/vc-shortcodes.php:242
+msgid "Description Style"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/posts-slider.php:192
+#: ../inc/gutenberg/blocks/slider/block.js:44 ../inc/vc-shortcodes.php:250
+msgid "Style 6"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/posts-slider.php:193
+#: ../inc/gutenberg/blocks/slider/block.js:45 ../inc/vc-shortcodes.php:251
+msgid "Style 7"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/posts-slider.php:201
+#: ../inc/gutenberg/blocks/slider/block.js:164 ../inc/vc-shortcodes.php:279
+msgid "Overlay"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/posts-slider.php:213
+#: ../inc/vc-shortcodes.php:136
+msgid "Autoplay"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/posts-slider.php:216
+#: ../inc/elementor-widgets/widgets/posts-slider.php:228
+#: ../inc/elementor-widgets/widgets/posts-slider.php:240
+#: ../inc/elementor-widgets/widgets/posts-slider.php:252
+#: ../inc/elementor-widgets/widgets/posts-slider.php:264
+#: ../inc/elementor-widgets/widgets/recent-posts.php:356
+#: ../inc/elementor-widgets/widgets/recent-posts.php:369
+#: ../inc/meta-boxes.php:359 ../inc/meta-boxes.php:547
+#: ../inc/vc-shortcodes.php:139 ../inc/vc-shortcodes.php:161
+msgid "Enable"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/posts-slider.php:217
+#: ../inc/elementor-widgets/widgets/posts-slider.php:229
+#: ../inc/elementor-widgets/widgets/posts-slider.php:241
+#: ../inc/elementor-widgets/widgets/posts-slider.php:253
+#: ../inc/elementor-widgets/widgets/posts-slider.php:265
+#: ../inc/elementor-widgets/widgets/recent-posts.php:344
+#: ../inc/elementor-widgets/widgets/recent-posts.php:357
+#: ../inc/elementor-widgets/widgets/recent-posts.php:370
+#: ../inc/gutenberg/blocks/gridposts/block.js:72 ../inc/meta-boxes.php:418
+#: ../inc/meta-boxes.php:546 ../inc/vc-shortcodes.php:140
+#: ../inc/vc-shortcodes.php:162 ../inc/vc-shortcodes.php:549
+msgid "Disable"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/posts-slider.php:225
+#: ../inc/gutenberg/blocks/slider/block.js:183 ../inc/vc-shortcodes.php:147
+msgid "Scroll on mousewheel"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/posts-slider.php:237
+#: ../inc/vc-shortcodes.php:158
+msgid "Loop"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/posts-slider.php:249
+msgid "Slider arrows"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/posts-slider.php:261
+#: ../inc/gutenberg/blocks/slider/block.js:210
+msgid "Slider bullets"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/posts-slider.php:273
+#: ../inc/elementor-widgets/widgets/single-post.php:65
+#: ../inc/vc-shortcodes.php:290
+msgid "Show meta categories?"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/posts-slider.php:285
+#: ../inc/gutenberg/blocks/slider/block.js:228 ../inc/meta-boxes.php:654
+msgid "Show date"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/posts-slider.php:525
+#: ../inc/elementor-widgets/widgets/posts-slider.php:533
+#: ../inc/shortcodes.php:231 ../inc/shortcodes.php:239
+#: ../inc/shortcodes.php:498 ../inc/shortcodes.php:519
+#: ../inc/shortcodes.php:553 ../inc/shortcodes.php:585
+#: ../inc/shortcodes.php:602 ../inc/shortcodes.php:636
+#: ../inc/shortcodes.php:667 ../inc/shortcodes.php:698
+#: ../inc/shortcodes.php:732 ../inc/shortcodes.php:766
+#: ../inc/shortcodes.php:809 ../inc/shortcodes.php:833
+#: ../inc/shortcodes.php:861 ../inc/shortcodes.php:904
+#: ../inc/shortcodes.php:938 ../inc/shortcodes.php:1105
+#: ../inc/shortcodes.php:1219 ../inc/shortcodes.php:1254
+#: ../inc/shortcodes.php:1272 ../inc/shortcodes.php:1381
+#: ../inc/shortcodes.php:1500 ../inc/shortcodes.php:1537
+#: ../inc/shortcodes.php:1554
+msgid "Permalink to"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/recent-posts.php:10
+#: ../inc/elementor-widgets/widgets/recent-posts.php:48
+#: ../inc/gutenberg/blocks/gridposts/block.js:82 ../inc/vc-shortcodes.php:323
+msgid "Malina Recent Posts"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/recent-posts.php:88
+#: ../inc/gutenberg/blocks/gridposts/block.js:128 ../inc/vc-shortcodes.php:362
+msgid "Load more posts count"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/recent-posts.php:89
+#: ../inc/gutenberg/blocks/gridposts/block.js:129 ../inc/vc-shortcodes.php:365
+msgid ""
+"Enter number of posts to load (leave balnk to use the same value as per "
+"page)."
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/recent-posts.php:97
+#: ../inc/gutenberg/blocks/gridposts/block.js:134 ../inc/vc-shortcodes.php:369
+msgid "Posts offset"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/recent-posts.php:98
+#: ../inc/gutenberg/blocks/gridposts/block.js:135 ../inc/vc-shortcodes.php:372
+msgid "Enter the number of posts to offset before retrieval."
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/recent-posts.php:106
+#: ../inc/gutenberg/blocks/gridposts/block.js:141 ../inc/vc-shortcodes.php:452
+msgid "Posts per row"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/recent-posts.php:108
+#: ../inc/gutenberg/blocks/gridposts/block.js:142
+msgid "Select posts count per row. It works for simple and masonry style."
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/recent-posts.php:110
+#: ../inc/gutenberg/blocks/gridposts/block.js:33
+msgid "One"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/recent-posts.php:111
+#: ../inc/gutenberg/blocks/gridposts/block.js:34 ../inc/vc-shortcodes.php:455
+msgid "Two"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/recent-posts.php:112
+#: ../inc/gutenberg/blocks/gridposts/block.js:35 ../inc/vc-shortcodes.php:456
+msgid "Three"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/recent-posts.php:113
+#: ../inc/gutenberg/blocks/gridposts/block.js:36 ../inc/vc-shortcodes.php:457
+msgid "Four"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/recent-posts.php:114
+#: ../inc/gutenberg/blocks/gridposts/block.js:37 ../inc/vc-shortcodes.php:458
+msgid "Five"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/recent-posts.php:115
+#: ../inc/gutenberg/blocks/gridposts/block.js:38 ../inc/vc-shortcodes.php:459
+msgid "Six"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/recent-posts.php:124
+msgid "This help you to retrieve items from specific category."
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/recent-posts.php:146
+#: ../inc/gutenberg/blocks/gridposts/block.js:169 ../inc/vc-shortcodes.php:394
+msgid "Select posts to exclude"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/recent-posts.php:147
+msgid "Select posts to exclude those records"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/recent-posts.php:193
+msgid "Posts view style"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/recent-posts.php:195
+#: ../inc/gutenberg/blocks/gridposts/block.js:196 ../inc/vc-shortcodes.php:447
+msgid "Select posts style on preview."
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/recent-posts.php:198
+#: ../inc/gutenberg/blocks/gridposts/block.js:21 ../inc/vc-shortcodes.php:436
+msgid "Featured"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/recent-posts.php:199
+#: ../inc/gutenberg/blocks/gridposts/block.js:22 ../inc/vc-shortcodes.php:437
+msgid "Featured even/odd"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/recent-posts.php:200
+#: ../inc/gutenberg/blocks/gridposts/block.js:23 ../inc/vc-shortcodes.php:438
+msgid "Masonry"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/recent-posts.php:201
+#: ../inc/gutenberg/blocks/gridposts/block.js:24 ../inc/vc-shortcodes.php:439
+msgid "List"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/recent-posts.php:202
+#: ../inc/gutenberg/blocks/gridposts/block.js:25 ../inc/vc-shortcodes.php:440
+msgid "List 2"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/recent-posts.php:203
+#: ../inc/gutenberg/blocks/gridposts/block.js:26 ../inc/vc-shortcodes.php:441
+msgid "Sono"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/recent-posts.php:204
+msgid "EditorPick"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/recent-posts.php:205
+#: ../inc/gutenberg/blocks/gridposts/block.js:28 ../inc/vc-shortcodes.php:443
+msgid "Walnuss"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/recent-posts.php:206
+#: ../inc/gutenberg/blocks/gridposts/block.js:29 ../inc/vc-shortcodes.php:444
+msgid "Sticky style"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/recent-posts.php:207
+#: ../inc/gutenberg/blocks/gridposts/block.js:30 ../inc/vc-shortcodes.php:445
+msgid "Boxed"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/recent-posts.php:220
+#: ../inc/elementor-widgets/widgets/single-post.php:57
+msgid "Select your image size to use in post."
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/recent-posts.php:229
+#: ../inc/gutenberg/blocks/gridposts/block.js:219 ../inc/vc-shortcodes.php:485
+msgid "Align elements"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/recent-posts.php:231
+#: ../inc/gutenberg/blocks/gridposts/block.js:220 ../inc/vc-shortcodes.php:492
+msgid "Select position for text, meta info, categories, etc."
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/recent-posts.php:243
+#: ../inc/gutenberg/blocks/gridposts/block.js:212 ../inc/vc-shortcodes.php:478
+msgid "Post excerpt count"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/recent-posts.php:244
+#: ../inc/gutenberg/blocks/gridposts/block.js:213 ../inc/vc-shortcodes.php:481
+msgid "Enter number of words in post excerpt. 0 to hide it."
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/recent-posts.php:252
+#: ../inc/gutenberg/blocks/gridposts/block.js:228
+#: ../inc/gutenberg/blocks/singlepost/block.js:62 ../inc/vc-shortcodes.php:497
+msgid "Display categories?"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/recent-posts.php:264
+msgid "Display reading time?"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/recent-posts.php:276
+#: ../inc/gutenberg/blocks/gridposts/block.js:248 ../inc/vc-shortcodes.php:513
+msgid "Display comments count?"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/recent-posts.php:288
+#: ../inc/gutenberg/blocks/gridposts/block.js:257 ../inc/vc-shortcodes.php:521
+msgid "Display date label?"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/recent-posts.php:292
+#: ../inc/gutenberg/blocks/gridposts/block.js:64
+#: ../inc/gutenberg/blocks/socials/block.js:20 ../inc/vc-shortcodes.php:523
+msgid "Show on hover"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/recent-posts.php:301
+#: ../inc/gutenberg/blocks/gridposts/block.js:265 ../inc/vc-shortcodes.php:528
+msgid "Display views?"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/recent-posts.php:313
+#: ../inc/gutenberg/blocks/gridposts/block.js:274 ../inc/vc-shortcodes.php:535
+msgid "Display likes?"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/recent-posts.php:325
+#: ../inc/meta-boxes.php:664
+msgid "Show readmore"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/recent-posts.php:337
+#: ../inc/gutenberg/blocks/gridposts/block.js:283 ../inc/vc-shortcodes.php:542
+msgid "Pagination"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/recent-posts.php:340
+#: ../inc/gutenberg/blocks/gridposts/block.js:68 ../inc/vc-shortcodes.php:545
+msgid "Load more"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/recent-posts.php:341
+#: ../inc/gutenberg/blocks/gridposts/block.js:69 ../inc/meta-boxes.php:45
+#: ../inc/vc-shortcodes.php:314 ../inc/vc-shortcodes.php:546
+msgid "Standard"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/recent-posts.php:342
+#: ../inc/gutenberg/blocks/gridposts/block.js:70
+msgid "Prev/Next"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/recent-posts.php:343
+#: ../inc/gutenberg/blocks/gridposts/block.js:71 ../inc/vc-shortcodes.php:548
+msgid "Infinite scroll"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/recent-posts.php:352
+#: ../inc/vc-shortcodes.php:556
+msgid "Disable featured posts style"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/recent-posts.php:353
+#: ../inc/gutenberg/blocks/gridposts/block.js:293 ../inc/vc-shortcodes.php:559
+msgid "Disable style for featured posts. Do not highlight them."
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/recent-posts.php:365
+#: ../inc/vc-shortcodes.php:564
+msgid "Ignore sticky posts"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/recent-posts.php:366
+#: ../inc/vc-shortcodes.php:567
+msgid "Show sticky posts?"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/single-post.php:10
+#: ../inc/elementor-widgets/widgets/single-post.php:33
+#: ../inc/gutenberg/blocks/singlepost/block.js:20
+msgid "Malina Single Post"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/slider.php:11
+#: ../inc/elementor-widgets/widgets/slider.php:27 ../inc/meta-boxes.php:424
+#: ../inc/meta-boxes.php:427
+msgid "Revolution Slider"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/slider.php:35
+msgid "Select slider"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/slider.php:39
+msgid "Create your slider in Revolution Slider plugin, before select it."
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/slider.php:46
+#: ../inc/elementor-widgets/widgets/slider.php:61
+msgid "Revolution Slider plugin is required!"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/subscribe.php:10
+#: ../inc/elementor-widgets/widgets/subscribe.php:33
+#: ../inc/gutenberg/blocks/subscribe/block.js:21
+msgid "Malina Subscribe"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/subscribe.php:52
+#: ../inc/gutenberg/blocks/subscribe/subscribe.php:35
+msgid "Sign up for updates"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/subscribe.php:58
+#: ../inc/gutenberg/blocks/subscribe/subscribe.php:41
+#: ../inc/widgets/subscribe.php:12
+#, php-format
+msgid "New Subscription on %s"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/subscribe.php:62
+#: ../inc/gutenberg/blocks/subscribe/subscribe.php:45
+#: ../inc/widgets/subscribe.php:16
+#, php-format
+msgid "%s Admin"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/subscribe.php:64
+#: ../inc/gutenberg/blocks/subscribe/subscribe.php:47
+#: ../inc/widgets/subscribe.php:18
+msgid "Hi ,"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/subscribe.php:65
+#: ../inc/gutenberg/blocks/subscribe/subscribe.php:48
+#: ../inc/widgets/subscribe.php:19
+#, php-format
+msgid "You have a new subscription on your %s website."
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/subscribe.php:66
+#: ../inc/gutenberg/blocks/subscribe/subscribe.php:49
+#: ../inc/widgets/subscribe.php:20
+msgid "Email Details"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/subscribe.php:67
+#: ../inc/gutenberg/blocks/subscribe/subscribe.php:50
+#: ../inc/widgets/subscribe.php:21
+msgid "-----------------"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/subscribe.php:68
+#: ../inc/gutenberg/blocks/subscribe/subscribe.php:51
+msgid "User Name: "
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/subscribe.php:69
+#: ../inc/gutenberg/blocks/subscribe/subscribe.php:52
+#: ../inc/widgets/subscribe.php:22
+msgid "User E-mail: "
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/subscribe.php:70
+#: ../inc/gutenberg/blocks/subscribe/subscribe.php:53
+#: ../inc/widgets/subscribe.php:23
+msgid "Regards,"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/subscribe.php:71
+#: ../inc/gutenberg/blocks/subscribe/subscribe.php:54
+#: ../inc/widgets/subscribe.php:24
+#, php-format
+msgid "Your %s Team"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/subscribe.php:75
+#: ../inc/gutenberg/blocks/subscribe/subscribe.php:58
+msgid "Your e-mail"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/subscribe.php:75
+#: ../inc/gutenberg/blocks/subscribe/subscribe.php:58
+msgid "has been added to our mailing list!"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/subscribe.php:78
+#: ../inc/elementor-widgets/widgets/subscribe.php:81
+#: ../inc/gutenberg/blocks/subscribe/subscribe.php:61
+#: ../inc/gutenberg/blocks/subscribe/subscribe.php:64
+msgid "There was a problem with your e-mail"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/subscribe.php:93
+#: ../inc/gutenberg/blocks/subscribe/subscribe.php:76
+#: ../malina-elements.php:971 ../malina-elements.php:1081
+msgid "Email"
+msgstr ""
+
+#: ../inc/elementor-widgets/widgets/subscribe.php:98
+#: ../inc/gutenberg/blocks/subscribe/subscribe.php:81
+msgid "Sign up"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/category/block.js:39
+msgid "Category name"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/category/block.js:40
+msgid "Please enter category name"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/category/block.js:53
+#: ../inc/gutenberg/blocks/map/block.js:68
+#: ../inc/gutenberg/blocks/teammember/block.js:53 ../malina-elements.php:695
+msgid "Upload Image"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/category/block.js:66
+msgid "Category URL"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/category/block.js:67
+msgid "Please enter category url"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/contactform/block.js:30
+msgid "Contact form shortocde"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/contactform/block.js:31
+msgid ""
+"Please insert shortcode from \"Contact form 7\" plugin or similar to it."
+msgstr ""
+
+#: ../inc/gutenberg/blocks/contactform/contactform.php:31
+msgid ""
+"You need to insert shortcode for your form from \"Contact Form 7\" plugin or "
+"similar."
+msgstr ""
+
+#: ../inc/gutenberg/blocks/gridposts/block.js:10
+#: ../inc/gutenberg/blocks/slider/block.js:21 ../inc/vc-shortcodes.php:213
+#: ../inc/vc-shortcodes.php:424 ../inc/vc-shortcodes.php:650
+msgid "Descending"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/gridposts/block.js:10
+#: ../inc/gutenberg/blocks/slider/block.js:21 ../inc/vc-shortcodes.php:214
+#: ../inc/vc-shortcodes.php:425 ../inc/vc-shortcodes.php:651
+msgid "Ascending"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/gridposts/block.js:27 ../inc/vc-shortcodes.php:442
+msgid "EditorPicks"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/gridposts/block.js:41
+#: ../inc/gutenberg/blocks/singlepost/block.js:10
+#: ../inc/gutenberg/blocks/slider/block.js:13
+msgid "Medium"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/gridposts/block.js:42
+#: ../inc/gutenberg/blocks/singlepost/block.js:11
+#: ../inc/gutenberg/blocks/slider/block.js:14
+msgid "Large"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/gridposts/block.js:43
+#: ../inc/gutenberg/blocks/singlepost/block.js:12
+#: ../inc/gutenberg/blocks/slider/block.js:15
+msgid "Post thumbnail"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/gridposts/block.js:44
+#: ../inc/gutenberg/blocks/singlepost/block.js:13
+#: ../inc/gutenberg/blocks/slider/block.js:16
+msgid "Malina masonry"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/gridposts/block.js:45
+#: ../inc/gutenberg/blocks/singlepost/block.js:14
+#: ../inc/gutenberg/blocks/slider/block.js:17
+msgid "Malina extra medium"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/gridposts/block.js:46
+#: ../inc/gutenberg/blocks/singlepost/block.js:15
+#: ../inc/gutenberg/blocks/slider/block.js:18
+msgid "Malina Slider"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/gridposts/block.js:47
+#: ../inc/gutenberg/blocks/singlepost/block.js:16
+#: ../inc/gutenberg/blocks/slider/block.js:19
+msgid "Full"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/gridposts/block.js:122 ../inc/vc-shortcodes.php:354
+#: ../inc/vc-shortcodes.php:592
+msgid "Post count"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/gridposts/block.js:123
+msgid ""
+"Enter number of posts to display per page (Note: Enter '-1' to display all "
+"posts)."
+msgstr ""
+
+#: ../inc/gutenberg/blocks/gridposts/block.js:186
+#: ../inc/gutenberg/blocks/slider/block.js:130 ../inc/vc-shortcodes.php:210
+#: ../inc/vc-shortcodes.php:421 ../inc/vc-shortcodes.php:647
+msgid "Sort order"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/gridposts/block.js:187
+#: ../inc/gutenberg/blocks/slider/block.js:131 ../inc/vc-shortcodes.php:216
+#: ../inc/vc-shortcodes.php:427 ../inc/vc-shortcodes.php:653
+msgid "Select ascending or descending order."
+msgstr ""
+
+#: ../inc/gutenberg/blocks/gridposts/block.js:195 ../inc/vc-shortcodes.php:432
+msgid "Post view style"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/gridposts/block.js:204
+#: ../inc/gutenberg/blocks/singlepost/block.js:53
+#: ../inc/gutenberg/blocks/slider/block.js:155 ../inc/vc-shortcodes.php:470
+#: ../inc/vc-shortcodes.php:658 ../inc/vc-shortcodes.php:684
+msgid "Thumbnail size"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/gridposts/block.js:205
+#: ../inc/gutenberg/blocks/singlepost/block.js:54
+#: ../inc/gutenberg/blocks/slider/block.js:156 ../inc/vc-shortcodes.php:473
+#: ../inc/vc-shortcodes.php:661 ../inc/vc-shortcodes.php:687
+msgid "Select your image size to use."
+msgstr ""
+
+#: ../inc/gutenberg/blocks/gridposts/block.js:229
+#: ../inc/gutenberg/blocks/singlepost/block.js:63 ../inc/vc-shortcodes.php:500
+#: ../inc/vc-shortcodes.php:695
+msgid "Show categories above the title?"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/gridposts/block.js:238 ../inc/vc-shortcodes.php:505
+msgid "Display time reading?"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/gridposts/block.js:239 ../inc/vc-shortcodes.php:508
+msgid "Show estimate time to read the post?"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/gridposts/block.js:284 ../inc/vc-shortcodes.php:551
+msgid "Select pagination for posts."
+msgstr ""
+
+#: ../inc/gutenberg/blocks/gridposts/block.js:292
+msgid "Disable featured posts style?"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/gridposts/block.js:302
+msgid "Ignore sticky posts?"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/instagram/block.js:15
+msgid "five per row"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/instagram/block.js:16
+msgid "Siz per row"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/instagram/block.js:24 ../inc/vc-shortcodes.php:1303
+msgid "Malina Instagram"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/instagram/block.js:46
+msgid "Access Token"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/instagram/block.js:47
+msgid "Generate access token"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/instagram/block.js:66
+msgid "Hide Follow Link?"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/map/block.js:37
+msgid "Malina google map"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/map/block.js:42
+msgid "Address"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/map/block.js:43
+msgid "Enter your address"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/map/block.js:50
+msgid "Select your map style"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/map/block.js:75
+msgid "Enter your map height without 'px'"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/menu/block.js:39 ../inc/vc-shortcodes.php:1098
+msgid "Menu place"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/menu/block.js:57
+msgid "Show search icon (for header menu)"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/separator-title/block.js:25
+msgid "Malina Separator Title"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/separator-title/block.js:43
+msgid "Eneter your title text"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/separator-title/block.js:49
+msgid "Select title  size"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/separator-title/block.js:57
+msgid "Title posistion"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/separator-title/block.js:58
+msgid "Select position for title"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/sidebar/block.js:26
+msgid "Sidebar"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/singlepost/block.js:46
+msgid "Post ID"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/singlepost/block.js:47 ../inc/vc-shortcodes.php:680
+msgid "Enter posts ID to display only those record."
+msgstr ""
+
+#: ../inc/gutenberg/blocks/slider/block.js:50 ../inc/meta-boxes.php:596
+#: ../inc/vc-shortcodes.php:233
+msgid "Two Centered"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/slider/block.js:64
+msgid "Malina Slider Posts"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/slider/block.js:77
+msgid "Malina Posts slider"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/slider/block.js:139
+msgid "Slider description style"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/slider/block.js:173 ../inc/meta-boxes.php:178
+msgid "Slideshow"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/slider/block.js:174
+msgid "You can enable/disable slides autoplay"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/slider/block.js:192
+msgid "You can enable/disable slides loop"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/slider/block.js:201
+msgid "Slider Arrows"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/slider/block.js:219
+msgid "Show categories"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/socials/block.js:25
+msgid "Malina Social links"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/socials/block.js:41
+msgid ""
+"If you need to change links. Go to Theme options -> socials in customizer"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/socials/block.js:43
+msgid "Select icon color"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/socials/block.js:49
+msgid "Select icon background color"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/socials/block.js:57
+msgid "Select position for icons etc."
+msgstr ""
+
+#: ../inc/gutenberg/blocks/socials/block.js:65
+msgid "Socials icons style"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/socials/block.js:66
+msgid "Select icons style"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/socials/block.js:73
+msgid "Before icons text"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/socials/block.js:74
+msgid "Use this field if you need add some text before icons."
+msgstr ""
+
+#: ../inc/gutenberg/blocks/socials/block.js:79
+msgid "Socials block id"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/socials/block.js:80
+msgid "Use this field if you need to style it."
+msgstr ""
+
+#: ../inc/gutenberg/blocks/subscribe/block.js:38
+msgid "Subscribe block title"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/teammember/block.js:16
+msgid "Malina TeamMember"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/teammember/block.js:40
+msgid "Please enter member name"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/teammember/block.js:58
+msgid "URL"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/teammember/block.js:59
+msgid "Please enter url or leave blank if you need not"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/teammember/block.js:65
+msgid "Please enter member position"
+msgstr ""
+
+#: ../inc/meta-boxes.php:10
+msgid "No Slider"
+msgstr ""
+
+#: ../inc/meta-boxes.php:34
+msgid "Single Post Layout"
+msgstr ""
+
+#: ../inc/meta-boxes.php:39
+msgid "Single post layout"
+msgstr ""
+
+#: ../inc/meta-boxes.php:40
+msgid "Select layout type."
+msgstr ""
+
+#: ../inc/meta-boxes.php:46
+msgid "Wide"
+msgstr ""
+
+#: ../inc/meta-boxes.php:47 ../inc/meta-boxes.php:608
+#: ../inc/vc-shortcodes.php:313
+msgid "Fullwidth"
+msgstr ""
+
+#: ../inc/meta-boxes.php:48
+msgid "Fullwidth Alt"
+msgstr ""
+
+#: ../inc/meta-boxes.php:49
+msgid "Fullwidth Alt 2"
+msgstr ""
+
+#: ../inc/meta-boxes.php:50
+msgid "Fancy Header"
+msgstr ""
+
+#: ../inc/meta-boxes.php:51
+msgid "Half Header"
+msgstr ""
+
+#: ../inc/meta-boxes.php:52
+msgid "Wide and Clean"
+msgstr ""
+
+#: ../inc/meta-boxes.php:53
+msgid "Side"
+msgstr ""
+
+#: ../inc/meta-boxes.php:58
+msgid "Post sidebar"
+msgstr ""
+
+#: ../inc/meta-boxes.php:59
+msgid "Select sidebar position."
+msgstr ""
+
+#: ../inc/meta-boxes.php:64
+msgid "Sidebar right"
+msgstr ""
+
+#: ../inc/meta-boxes.php:65
+msgid "Sidebar left"
+msgstr ""
+
+#: ../inc/meta-boxes.php:66
+msgid "No sidebar"
+msgstr ""
+
+#: ../inc/meta-boxes.php:71
+msgid "Custom sidebar"
+msgstr ""
+
+#: ../inc/meta-boxes.php:72
+msgid "Select your sidebar if you want to use another sidebar on this post."
+msgstr ""
+
+#: ../inc/meta-boxes.php:79
+msgid "Featured post"
+msgstr ""
+
+#: ../inc/meta-boxes.php:80
+msgid "Check this if you need to highlight post for posts list view."
+msgstr ""
+
+#: ../inc/meta-boxes.php:86
+msgid "Post format on preview"
+msgstr ""
+
+#: ../inc/meta-boxes.php:87
+msgid ""
+"Select what you need to display on preview, featured image or post format "
+"(video, gallery, audio, etc.)"
+msgstr ""
+
+#: ../inc/meta-boxes.php:92
+msgid "Show post format"
+msgstr ""
+
+#: ../inc/meta-boxes.php:93
+msgid "Show featured image"
+msgstr ""
+
+#: ../inc/meta-boxes.php:98 ../inc/meta-boxes.php:335
+msgid "Disable footer?"
+msgstr ""
+
+#: ../inc/meta-boxes.php:104
+msgid "Sticky sharebox"
+msgstr ""
+
+#: ../inc/meta-boxes.php:105
+msgid "Check to enable vertical sticky sharebox."
+msgstr ""
+
+#: ../inc/meta-boxes.php:111
+msgid "Disable top stories section?"
+msgstr ""
+
+#: ../inc/meta-boxes.php:112
+msgid "Hide top stories section on this post"
+msgstr ""
+
+#: ../inc/meta-boxes.php:118
+msgid "Fancy Header Image"
+msgstr ""
+
+#: ../inc/meta-boxes.php:119
+msgid "Select image for \"Fancy Header\" post layout."
+msgstr ""
+
+#: ../inc/meta-boxes.php:126 ../inc/meta-boxes.php:391
+msgid "Title position"
+msgstr ""
+
+#: ../inc/meta-boxes.php:140
+msgid "Post Embed"
+msgstr ""
+
+#: ../inc/meta-boxes.php:145
+msgid "Embed Url"
+msgstr ""
+
+#: ../inc/meta-boxes.php:146
+msgid ""
+"This area used for the media content. If you need to show some media embeds "
+"for \"Standard\" post format instead featured image, use this field. It "
+"supports "
+msgstr ""
+
+#: ../inc/meta-boxes.php:146 ../inc/meta-boxes.php:216
+msgid "many media websites"
+msgstr ""
+
+#: ../inc/meta-boxes.php:151
+msgid "Display on single post?"
+msgstr ""
+
+#: ../inc/meta-boxes.php:152
+msgid ""
+"Check this if you need to display embed media on single post view. Featured "
+"image will be disabled."
+msgstr ""
+
+#: ../inc/meta-boxes.php:161
+msgid "Post Gallery"
+msgstr ""
+
+#: ../inc/meta-boxes.php:166
+msgid "Post Gallery Images"
+msgstr ""
+
+#: ../inc/meta-boxes.php:167
+msgid ""
+"Upload up to 30 project images for a slideshow - or only one to display a "
+"single image."
+msgstr ""
+
+#: ../inc/meta-boxes.php:173
+msgid "Gallery layout"
+msgstr ""
+
+#: ../inc/meta-boxes.php:174
+msgid "Select gallery layout type."
+msgstr ""
+
+#: ../inc/meta-boxes.php:179
+msgid "Slideshow Alt"
+msgstr ""
+
+#: ../inc/meta-boxes.php:180
+msgid "Slideshow with thumbs"
+msgstr ""
+
+#: ../inc/meta-boxes.php:185
+msgid "Auto slideshow"
+msgstr ""
+
+#: ../inc/meta-boxes.php:186
+msgid "Check this if you need to have slideshow in your gallery."
+msgstr ""
+
+#: ../inc/meta-boxes.php:192
+msgid "Auto height"
+msgstr ""
+
+#: ../inc/meta-boxes.php:193
+msgid "Check this if you need to resize slider height regarding to image size."
+msgstr ""
+
+#: ../inc/meta-boxes.php:199 ../inc/widgets/sliderposts.php:286
+msgid "Loop items"
+msgstr ""
+
+#: ../inc/meta-boxes.php:200
+msgid "Check this if you need to have loop in your gallery."
+msgstr ""
+
+#: ../inc/meta-boxes.php:210
+msgid "Post Video"
+msgstr ""
+
+#: ../inc/meta-boxes.php:215
+msgid "Video URL"
+msgstr ""
+
+#: ../inc/meta-boxes.php:216
+msgid ""
+"This area used for video post format. This field offers live preview the "
+"media content. It supports self-hosted video and video from "
+msgstr ""
+
+#: ../inc/meta-boxes.php:224
+msgid "Post audio"
+msgstr ""
+
+#: ../inc/meta-boxes.php:229
+msgid "Audio"
+msgstr ""
+
+#: ../inc/meta-boxes.php:230
+msgid ""
+"This area used for audio post format. You can use self-hosted audio (mp3, "
+"m4a, ogg, wav, wma) or from link to soundcloud, mixcloud, reverbnation, "
+"spotify item."
+msgstr ""
+
+#: ../inc/meta-boxes.php:239
+msgid "Post Quote"
+msgstr ""
+
+#: ../inc/meta-boxes.php:249
+msgid "Quote author"
+msgstr ""
+
+#: ../inc/meta-boxes.php:254
+msgid "Background color"
+msgstr ""
+
+#: ../inc/meta-boxes.php:255 ../inc/meta-boxes.php:261
+#: ../inc/meta-boxes.php:350
+msgid "Leave empty to use default theme colors."
+msgstr ""
+
+#: ../inc/meta-boxes.php:260
+msgid "Quote text color"
+msgstr ""
+
+#: ../inc/meta-boxes.php:269
+msgid "Post link"
+msgstr ""
+
+#: ../inc/meta-boxes.php:274
+msgid "Link"
+msgstr ""
+
+#: ../inc/meta-boxes.php:275
+msgid ""
+"This area used for link post format. If you need extarnal link, please input."
+msgstr ""
+
+#: ../inc/meta-boxes.php:281
+msgid "Input title for your external link."
+msgstr ""
+
+#: ../inc/meta-boxes.php:290
+msgid "Page settings"
+msgstr ""
+
+#: ../inc/meta-boxes.php:295
+msgid "Header variant"
+msgstr ""
+
+#: ../inc/meta-boxes.php:296
+msgid "Select header style. Default is style from theme options."
+msgstr ""
+
+#: ../inc/meta-boxes.php:301
+msgid "Simple header"
+msgstr ""
+
+#: ../inc/meta-boxes.php:302
+msgid "Side header"
+msgstr ""
+
+#: ../inc/meta-boxes.php:303
+msgid "Vertical menu"
+msgstr ""
+
+#: ../inc/meta-boxes.php:304
+msgid "Horizontal header"
+msgstr ""
+
+#: ../inc/meta-boxes.php:305
+msgid "Header center logo"
+msgstr ""
+
+#: ../inc/meta-boxes.php:306
+msgid "Overlay header"
+msgstr ""
+
+#: ../inc/meta-boxes.php:307
+msgid "Simple header2"
+msgstr ""
+
+#: ../inc/meta-boxes.php:308
+msgid "Simple header3"
+msgstr ""
+
+#: ../inc/meta-boxes.php:313
+msgid "Header background"
+msgstr ""
+
+#: ../inc/meta-boxes.php:314
+msgid "Setup background parameters if you need custom header on this page."
+msgstr ""
+
+#: ../inc/meta-boxes.php:320
+msgid "Header bottom line"
+msgstr ""
+
+#: ../inc/meta-boxes.php:321
+msgid "Check this if you need to disable border line."
+msgstr ""
+
+#: ../inc/meta-boxes.php:327
+msgid "Body background"
+msgstr ""
+
+#: ../inc/meta-boxes.php:328
+msgid ""
+"Setup background parameters if you need custom background color on page."
+msgstr ""
+
+#: ../inc/meta-boxes.php:342
+msgid "Footer background"
+msgstr ""
+
+#: ../inc/meta-boxes.php:343
+msgid ""
+"Setup background parameters if you need custom background color on this page."
+msgstr ""
+
+#: ../inc/meta-boxes.php:349
+msgid "Footer socials color"
+msgstr ""
+
+#: ../inc/meta-boxes.php:355
+msgid "Footer instagram"
+msgstr ""
+
+#: ../inc/meta-boxes.php:360
+msgid "Full disable"
+msgstr ""
+
+#: ../inc/meta-boxes.php:361
+msgid "Disable items"
+msgstr ""
+
+#: ../inc/meta-boxes.php:362
+msgid "Disable follow link"
+msgstr ""
+
+#: ../inc/meta-boxes.php:367
+msgid "Page sidebar"
+msgstr ""
+
+#: ../inc/meta-boxes.php:368
+msgid ""
+"Select your sidebar if you want to use another sidebar on this page. Works "
+"with next page templates: \"Default template\" and \"Page: Left sidebar\""
+msgstr ""
+
+#: ../inc/meta-boxes.php:378
+msgid "Page title"
+msgstr ""
+
+#: ../inc/meta-boxes.php:384
+msgid "Hide title"
+msgstr ""
+
+#: ../inc/meta-boxes.php:385
+msgid "Check this to hide page title."
+msgstr ""
+
+#: ../inc/meta-boxes.php:407
+msgid "From highest to lowest"
+msgstr ""
+
+#: ../inc/meta-boxes.php:408
+msgid "From lowest to highest"
+msgstr ""
+
+#: ../inc/meta-boxes.php:419 ../inc/meta-boxes.php:473
+msgid "Image & posts carousel"
+msgstr ""
+
+#: ../inc/meta-boxes.php:420 ../inc/meta-boxes.php:563
+msgid "Slider"
+msgstr ""
+
+#: ../inc/meta-boxes.php:428
+msgid "Use options below to select \"Revolution Slider\" for the hero section"
+msgstr ""
+
+#: ../inc/meta-boxes.php:431
+msgid "Select slider to show"
+msgstr ""
+
+#: ../inc/meta-boxes.php:446
+msgid "Page hero section"
+msgstr ""
+
+#: ../inc/meta-boxes.php:452
+msgid "Hero section"
+msgstr ""
+
+#: ../inc/meta-boxes.php:459
+msgid "Section padding"
+msgstr ""
+
+#: ../inc/meta-boxes.php:460
+msgid "Do not set \"px\"."
+msgstr ""
+
+#: ../inc/meta-boxes.php:464
+msgid "top"
+msgstr ""
+
+#: ../inc/meta-boxes.php:465
+msgid "right"
+msgstr ""
+
+#: ../inc/meta-boxes.php:466
+msgid "bottom"
+msgstr ""
+
+#: ../inc/meta-boxes.php:467
+msgid "left"
+msgstr ""
+
+#: ../inc/meta-boxes.php:474
+msgid "Use options below if you select \"Image & posts carousel\" hero section"
+msgstr ""
+
+#: ../inc/meta-boxes.php:477
+msgid "Welcome text"
+msgstr ""
+
+#: ../inc/meta-boxes.php:479
+msgid "Leave blank if you need not text over your featured image."
+msgstr ""
+
+#: ../inc/meta-boxes.php:485
+msgid "For image use featured image option\" hero section"
+msgstr ""
+
+#: ../inc/meta-boxes.php:495 ../inc/meta-boxes.php:574
+#: ../inc/vc-shortcodes.php:184
+msgid "Select posts"
+msgstr ""
+
+#: ../inc/meta-boxes.php:503 ../inc/meta-boxes.php:583
+msgid "Select posts count to display posts"
+msgstr ""
+
+#: ../inc/meta-boxes.php:518
+msgid "Order ASC/DESC"
+msgstr ""
+
+#: ../inc/meta-boxes.php:525
+msgid "Carousel slideshow"
+msgstr ""
+
+#: ../inc/meta-boxes.php:535
+msgid "Carousel slideshow speed"
+msgstr ""
+
+#: ../inc/meta-boxes.php:537 ../inc/meta-boxes.php:639
+msgid "Slideshow speed 1sec = 1000"
+msgstr ""
+
+#: ../inc/meta-boxes.php:542
+msgid "Carousel slideshow loop"
+msgstr ""
+
+#: ../inc/meta-boxes.php:552
+msgid "Carousel arrows"
+msgstr ""
+
+#: ../inc/meta-boxes.php:564
+msgid "Use options below if you select \"Slider\" hero section"
+msgstr ""
+
+#: ../inc/meta-boxes.php:591
+msgid "Slider style"
+msgstr ""
+
+#: ../inc/meta-boxes.php:604 ../inc/vc-shortcodes.php:310
+msgid "Slider width"
+msgstr ""
+
+#: ../inc/meta-boxes.php:609
+msgid "Container"
+msgstr ""
+
+#: ../inc/meta-boxes.php:614
+msgid "Slider height"
+msgstr ""
+
+#: ../inc/meta-boxes.php:615
+msgid "Enter slider height in (px)"
+msgstr ""
+
+#: ../inc/meta-boxes.php:627
+msgid "Slider slideshow"
+msgstr ""
+
+#: ../inc/meta-boxes.php:637
+msgid "Slider slideshow speed"
+msgstr ""
+
+#: ../inc/meta-boxes.php:644
+msgid "Slider loop"
+msgstr ""
+
+#: ../inc/post-like/post-like-core.php:55
+msgid "already"
+msgstr ""
+
+#: ../inc/post-like/post-like-core.php:100
+#: ../inc/post-like/post-like-core.php:123
+msgid "Already liked"
+msgstr ""
+
+#: ../inc/post-like/post-like-core.php:102
+#: ../inc/post-like/post-like-core.php:126
+msgid "I like this"
+msgstr ""
+
+#: ../inc/post-like/post-like-core.php:106
+#: ../inc/post-like/post-like-core.php:130
+msgid "Likes"
+msgstr ""
+
+#: ../inc/post-like/post-like-core.php:108
+#: ../inc/post-like/post-like-core.php:110
+#: ../inc/post-like/post-like-core.php:132
+#: ../inc/post-like/post-like-core.php:134
+msgid "Like"
+msgstr ""
+
+#: ../inc/post-view/post-view.php:9 ../inc/post-view/post-view.php:11
+msgid "View"
+msgstr ""
+
+#: ../inc/post-view/post-view.php:13
+msgid "Views"
+msgstr ""
+
+#: ../inc/shortcodes.php:436
+msgid "No more items to load."
+msgstr ""
+
+#: ../inc/shortcodes.php:503 ../inc/shortcodes.php:677
+#: ../inc/shortcodes.php:710
+msgid "Posted"
+msgstr ""
+
+#: ../inc/shortcodes.php:538
+msgid "Read More"
+msgstr ""
+
+#: ../inc/shortcodes.php:839 ../inc/shortcodes.php:885
+#: ../inc/shortcodes.php:1233 ../inc/shortcodes.php:1308
+msgid "Read more"
+msgstr ""
+
+#: ../inc/shortcodes.php:966
+msgid "Load More"
+msgstr ""
+
+#: ../inc/shortcodes.php:973
+msgid "prev"
+msgstr ""
+
+#: ../inc/shortcodes.php:974
+msgid "next"
+msgstr ""
+
+#: ../inc/shortcodes.php:1613 ../inc/shortcodes.php:1615
+msgid "author photo"
+msgstr ""
+
+#: ../inc/shortcodes.php:1695
+msgid "articles"
+msgstr ""
+
+#: ../inc/shortcodes.php:1863 ../inc/vc-shortcodes.php:747
+#: ../inc/widgets/socials.php:40 ../inc/widgets/socials.php:114
+#: ../inc/widgets/socials.php:188 ../malina-elements.php:846
+#: ../malina-elements.php:956 ../malina-elements.php:1066
+msgid "Twitter"
+msgstr ""
+
+#: ../inc/shortcodes.php:1868 ../inc/vc-shortcodes.php:795
+#: ../inc/widgets/socials.php:61 ../inc/widgets/socials.php:135
+#: ../inc/widgets/socials.php:209 ../malina-elements.php:989
+#: ../malina-elements.php:1099
+msgid "Forrst"
+msgstr ""
+
+#: ../inc/shortcodes.php:1873 ../inc/vc-shortcodes.php:735
+#: ../inc/widgets/socials.php:37 ../inc/widgets/socials.php:111
+#: ../inc/widgets/socials.php:185 ../malina-elements.php:843
+#: ../malina-elements.php:953 ../malina-elements.php:1063
+msgid "Facebook"
+msgstr ""
+
+#: ../inc/shortcodes.php:1877 ../inc/vc-shortcodes.php:891
+#: ../inc/widgets/socials.php:82 ../inc/widgets/socials.php:156
+#: ../inc/widgets/socials.php:230 ../malina-elements.php:1007
+#: ../malina-elements.php:1117
+msgid "Yahoo"
+msgstr ""
+
+#: ../inc/shortcodes.php:1882 ../inc/vc-shortcodes.php:879
+#: ../inc/widgets/socials.php:79 ../inc/widgets/socials.php:153
+#: ../inc/widgets/socials.php:227 ../malina-elements.php:974
+#: ../malina-elements.php:1084
+msgid "Vimeo"
+msgstr ""
+
+#: ../inc/shortcodes.php:1887 ../inc/widgets/socials.php:70
+#: ../inc/widgets/socials.php:144 ../inc/widgets/socials.php:218
+#: ../malina-elements.php:998 ../malina-elements.php:1108
+msgid "LinkedIn"
+msgstr ""
+
+#: ../inc/shortcodes.php:1892 ../inc/vc-shortcodes.php:855
+#: ../inc/widgets/socials.php:55 ../inc/widgets/socials.php:129
+#: ../inc/widgets/socials.php:203 ../malina-elements.php:983
+#: ../malina-elements.php:1093
+msgid "Google plus"
+msgstr ""
+
+#: ../inc/shortcodes.php:1897 ../inc/vc-shortcodes.php:771
+#: ../inc/widgets/socials.php:43 ../inc/widgets/socials.php:117
+#: ../inc/widgets/socials.php:191 ../malina-elements.php:855
+#: ../malina-elements.php:977 ../malina-elements.php:1087
+msgid "Instagram"
+msgstr ""
+
+#: ../inc/shortcodes.php:1902 ../inc/vc-shortcodes.php:843
+#: ../inc/widgets/socials.php:76 ../inc/widgets/socials.php:150
+#: ../inc/widgets/socials.php:224 ../malina-elements.php:1004
+#: ../malina-elements.php:1114
+msgid "Digg"
+msgstr ""
+
+#: ../inc/shortcodes.php:1907 ../inc/vc-shortcodes.php:831
+#: ../inc/widgets/socials.php:73 ../inc/widgets/socials.php:147
+#: ../inc/widgets/socials.php:221 ../malina-elements.php:1001
+#: ../malina-elements.php:1111
+msgid "Skype"
+msgstr ""
+
+#: ../inc/shortcodes.php:1912 ../inc/vc-shortcodes.php:807
+#: ../inc/widgets/socials.php:67 ../inc/widgets/socials.php:141
+#: ../inc/widgets/socials.php:215 ../malina-elements.php:995
+#: ../malina-elements.php:1105
+msgid "Flickr"
+msgstr ""
+
+#: ../inc/shortcodes.php:1917 ../inc/vc-shortcodes.php:819
+#: ../inc/widgets/socials.php:64 ../inc/widgets/socials.php:138
+#: ../inc/widgets/socials.php:212 ../malina-elements.php:992
+#: ../malina-elements.php:1102
+msgid "Dribbble"
+msgstr ""
+
+#: ../inc/shortcodes.php:1922 ../inc/vc-shortcodes.php:783
+#: ../inc/widgets/socials.php:85 ../inc/widgets/socials.php:159
+#: ../inc/widgets/socials.php:233 ../malina-elements.php:861
+#: ../malina-elements.php:980 ../malina-elements.php:1090
+msgid "Tumblr"
+msgstr ""
+
+#: ../inc/shortcodes.php:1927 ../inc/widgets/socials.php:88
+#: ../inc/widgets/socials.php:162 ../inc/widgets/socials.php:236
+#: ../malina-elements.php:1010 ../malina-elements.php:1120
+msgid "YouTube"
+msgstr ""
+
+#: ../inc/shortcodes.php:1932 ../inc/vc-shortcodes.php:915
+msgid "Picasa"
+msgstr ""
+
+#: ../inc/shortcodes.php:1937 ../inc/widgets/socials.php:91
+#: ../inc/widgets/socials.php:165 ../inc/widgets/socials.php:239
+#: ../malina-elements.php:1013 ../malina-elements.php:1123
+msgid "DeviantArt"
+msgstr ""
+
+#: ../inc/shortcodes.php:1942 ../inc/vc-shortcodes.php:939
+#: ../inc/widgets/socials.php:94 ../inc/widgets/socials.php:168
+#: ../inc/widgets/socials.php:242 ../malina-elements.php:1016
+#: ../malina-elements.php:1126
+msgid "Behance"
+msgstr ""
+
+#: ../inc/shortcodes.php:1947 ../inc/vc-shortcodes.php:759
+#: ../inc/widgets/socials.php:52 ../inc/widgets/socials.php:126
+#: ../inc/widgets/socials.php:200 ../malina-elements.php:852
+#: ../malina-elements.php:965 ../malina-elements.php:1075
+msgid "Pinterest"
+msgstr ""
+
+#: ../inc/shortcodes.php:1952 ../inc/vc-shortcodes.php:951
+#: ../malina-elements.php:1019 ../malina-elements.php:1129
+msgid "PayPal"
+msgstr ""
+
+#: ../inc/shortcodes.php:1957 ../inc/vc-shortcodes.php:963
+#: ../inc/widgets/socials.php:97 ../inc/widgets/socials.php:171
+#: ../inc/widgets/socials.php:245 ../malina-elements.php:1022
+#: ../malina-elements.php:1132
+msgid "Delicious"
+msgstr ""
+
+#: ../inc/shortcodes.php:1962 ../malina-elements.php:864
+#: ../malina-elements.php:1025 ../malina-elements.php:1135
+msgid "RSS"
+msgstr ""
+
+#: ../inc/shortcodes.php:1985
+msgid "Something went wrong: please, check your media url"
+msgstr ""
+
+#: ../inc/shortcodes.php:2166
+msgid "Enter your title text"
+msgstr ""
+
+#: ../inc/update.php:67
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+
+#: ../inc/update.php:72
+msgid "An unknown error occurred"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:98
+msgid "Uppercase"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:99
+msgid "Lowercase"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:100
+msgid "Capitalize"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:109
+msgid "Slider with your posts"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:142
+msgid "Disable or Enable Autoplay."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:153
+msgid "Move items on mousewheel"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:164
+msgid "If you want to have continuous slider, please select enable"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:173
+msgid ""
+"Enter number of slides to display (Note: Enter '-1' to display all slides)."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:177 ../inc/vc-shortcodes.php:376
+#: ../inc/vc-shortcodes.php:613
+msgid "Category slug"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:180 ../inc/vc-shortcodes.php:379
+#: ../inc/vc-shortcodes.php:616
+msgid ""
+"This help you to retrieve items from specific category. More than one "
+"separate by commas."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:257
+msgid "Navigation arrows"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:258
+msgid "Display navigation arrows."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:268
+msgid "Navigation dots"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:269
+msgid "Display navigation dots."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:280
+msgid ""
+"Display overlay on image. Your image with displays with some saturation."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:300 ../inc/widgets/recentposts.php:280
+msgid "Show date?"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:327 ../inc/vc-shortcodes.php:580
+msgid "Show WP posts in grid."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:358 ../inc/vc-shortcodes.php:595
+msgid ""
+"Enter number of posts to display (Note: Enter '-1' to display all posts)."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:402
+msgid "Select posts to exclude those records."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:461
+msgid "Select posts count per row."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:516
+msgid "Show comments count in meta?"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:547
+msgid "Next/prev"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:575
+msgid "Malina Carousel Posts"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:584
+msgid "Posts block title"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:588
+msgid ""
+"Enter posts block title e.g. 'Latest posts'. Leave blank if you need not to "
+"display it."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:599
+msgid "Posts per view"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:602
+msgid "Two per view"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:603
+msgid "Three per view"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:604
+msgid "Four per view"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:605
+msgid "Five per view"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:606
+msgid "Six per view"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:608
+msgid "Select posts count per view."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:628
+msgid "Search posts by title."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:669
+msgid "Malina Single Posts"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:673
+msgid ""
+"Show WP post. Just input post ID. You can find post ID in browser address "
+"bar while editing post."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:677
+msgid "Select post to show"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:692
+msgid "Show categories?"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:724
+msgid "Show social icons: facebook, twitter, pinterest, etc."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:728
+msgid "Icons Links"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:730
+msgid "From theme options"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:739 ../inc/vc-shortcodes.php:751
+#: ../inc/vc-shortcodes.php:763 ../inc/vc-shortcodes.php:775
+#: ../inc/vc-shortcodes.php:787 ../inc/vc-shortcodes.php:799
+#: ../inc/vc-shortcodes.php:811 ../inc/vc-shortcodes.php:823
+#: ../inc/vc-shortcodes.php:835 ../inc/vc-shortcodes.php:847
+#: ../inc/vc-shortcodes.php:859 ../inc/vc-shortcodes.php:871
+#: ../inc/vc-shortcodes.php:883 ../inc/vc-shortcodes.php:895
+#: ../inc/vc-shortcodes.php:907 ../inc/vc-shortcodes.php:919
+#: ../inc/vc-shortcodes.php:931 ../inc/vc-shortcodes.php:943
+#: ../inc/vc-shortcodes.php:955 ../inc/vc-shortcodes.php:967
+msgid "Enter link to your account (profile)."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:867
+msgid "Linkedin"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:903
+msgid "Youtube"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:927
+msgid "Deviantart"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:975
+msgid "Rss"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:979
+msgid "Enter link to rss."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1002 ../inc/vc-shortcodes.php:1013
+#: ../inc/vc-shortcodes.php:1020 ../inc/vc-shortcodes.php:1027
+#: ../inc/vc-shortcodes.php:1038
+msgid "Leave empty to use default color."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1049
+msgid "Icons align"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1063
+msgid "Malina User Info"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1067
+msgid "Show user information."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1071
+msgid "Username"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1075
+msgid "Enter username parameter to display information."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1094
+msgid "Show your header menu."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1101
+msgid "Header"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1102
+msgid "Footer"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1105
+msgid "Select place where do you want to insert menu."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1109
+msgid "Use default theme font"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1116
+msgid "Leave blank to use your default menu font."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1125 ../inc/vc-shortcodes.php:1246
+msgid "Select font family."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1126 ../inc/vc-shortcodes.php:1247
+msgid "Select font styling."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1136
+msgid "Menu font size"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1139 ../inc/vc-shortcodes.php:1260
+msgid "Enter value in px. Do not set (px)."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1147
+msgid "Menu text transform"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1150
+msgid "Select text transform."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1159
+msgid "Menu item color (initial)"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1169
+msgid "Menu item color (hover)"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1179
+msgid "Menu position"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1219
+msgid "Show your site logo."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1257
+msgid "Logo font size"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1268
+msgid "Image logo"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1282
+msgid "Logo align"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1307
+msgid "Show your instagram feeds."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1315
+msgid "Enter instagram block title."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1319
+msgid "Access token"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1338
+msgid "Two row"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1343
+msgid "Select items count per row"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1351
+msgid "Show or hide follow link"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1379 ../inc/vc-shortcodes.php:1474
+msgid "Show special block with link to category."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1383
+msgid "Category"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1386
+msgid "Select category to show."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1398
+msgid "Button label"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1401
+msgid "Enter button label, if empty label is equal to category name."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1405
+msgid "Button url"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1408
+msgid "Enter button url, if empty url is equal to category url."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1412
+msgid "Category image"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1415
+msgid "Select image for category block"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1419
+msgid "Button Border color"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1422 ../inc/vc-shortcodes.php:1429
+#: ../inc/vc-shortcodes.php:1436
+msgid "Leave empty to use default style."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1426
+msgid "Button background color"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1433
+msgid "Button text color"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1451
+msgid "Malina Categories info"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1455
+msgid "Display categories with posts count."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1478
+msgid "Member Name"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1490
+msgid "Member position"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1496
+msgid "Member url"
+msgstr ""
+
+#: ../inc/widgets/aboutme.php:8
+msgid "Display informations about you"
+msgstr ""
+
+#: ../inc/widgets/aboutme.php:10
+msgid "malina-AboutMe"
+msgstr ""
+
+#: ../inc/widgets/aboutme.php:122 ../inc/widgets/bannerspot.php:114
+#: ../inc/widgets/map.php:80 ../inc/widgets/socials.php:328
+#: ../inc/widgets/subscribe.php:108 ../inc/widgets/twitter.php:195
+#: ../inc/widgets/youtube_channel.php:89
+msgid "Title:"
+msgstr ""
+
+#: ../inc/widgets/aboutme.php:126
+msgid "Image:"
+msgstr ""
+
+#: ../inc/widgets/aboutme.php:130 ../inc/widgets/bannerspot.php:122
+#: ../inc/widgets/category.php:94 ../inc/widgets/youtube_channel.php:97
+msgid "Upload image"
+msgstr ""
+
+#: ../inc/widgets/aboutme.php:133
+msgid "Add link for your image:"
+msgstr ""
+
+#: ../inc/widgets/aboutme.php:162
+msgid "Show Social Links?"
+msgstr ""
+
+#: ../inc/widgets/aboutme.php:165
+msgid "Content:"
+msgstr ""
+
+#: ../inc/widgets/aboutme.php:169
+msgid "Signature:"
+msgstr ""
+
+#: ../inc/widgets/bannerspot.php:8
+msgid "Display block with banner and Title over it."
+msgstr ""
+
+#: ../inc/widgets/bannerspot.php:10
+msgid "malina-BannerSpot"
+msgstr ""
+
+#: ../inc/widgets/bannerspot.php:118
+msgid "Banner image:"
+msgstr ""
+
+#: ../inc/widgets/bannerspot.php:125
+msgid "Title color"
+msgstr ""
+
+#: ../inc/widgets/bannerspot.php:129 ../inc/widgets/youtube_channel.php:100
+msgid "URL:"
+msgstr ""
+
+#: ../inc/widgets/category.php:8
+msgid "Display category"
+msgstr ""
+
+#: ../inc/widgets/category.php:10
+msgid "malina-Category"
+msgstr ""
+
+#: ../inc/widgets/category.php:90
+msgid "Category Image:"
+msgstr ""
+
+#: ../inc/widgets/category.php:97
+msgid "Select category:"
+msgstr ""
+
+#: ../inc/widgets/instagram-new.php:6
+msgid "Display your latest Instagram Photos by Access Token"
+msgstr ""
+
+#: ../inc/widgets/instagram-new.php:8
+msgid "malina-Instagram New API"
+msgstr ""
+
+#: ../inc/widgets/instagram-new.php:191 ../inc/widgets/instagram.php:175
+msgid "Input number of items, max number is 20."
+msgstr ""
+
+#: ../inc/widgets/instagram.php:6
+msgid ""
+"Display your latest Instagram Photos by Username. This method deprecated. "
+"Use widget malina-Instagram New API instead."
+msgstr ""
+
+#: ../inc/widgets/instagram.php:8
+msgid "malina-Instagram by Username:deprecated"
+msgstr ""
+
+#: ../inc/widgets/instagram.php:64
+msgid ""
+"Something went wrong: it seems that profile is private or removed. Go to "
+"settings and set instagram username."
+msgstr ""
+
+#: ../inc/widgets/latestposts.php:72
+msgid "All"
+msgstr ""
+
+#: ../inc/widgets/latestposts.php:253
+msgid "Widget Title"
+msgstr ""
+
+#: ../inc/widgets/latestposts.php:258
+msgid "Ordered By"
+msgstr ""
+
+#: ../inc/widgets/latestposts.php:282
+msgid "Select Category"
+msgstr ""
+
+#: ../inc/widgets/latestposts.php:318
+msgid "Number of Column"
+msgstr ""
+
+#: ../inc/widgets/latestposts.php:344
+msgid "Post Count"
+msgstr ""
+
+#: ../inc/widgets/latestposts.php:351
+msgid "Show Date on the Post?"
+msgstr ""
+
+#: ../inc/widgets/latestposts.php:357
+msgid "Show Navigation on the Post?"
+msgstr ""
+
+#: ../inc/widgets/latestposts.php:363
+msgid "Show Left Category on the Widget?"
+msgstr ""
+
+#: ../inc/widgets/map.php:8
+msgid "Display your location"
+msgstr ""
+
+#: ../inc/widgets/map.php:10
+msgid "malina-Map"
+msgstr ""
+
+#: ../inc/widgets/map.php:25
+msgid "Located at:"
+msgstr ""
+
+#: ../inc/widgets/map.php:84
+msgid "Address:"
+msgstr ""
+
+#: ../inc/widgets/map.php:88
+msgid "Zoom:"
+msgstr ""
+
+#: ../inc/widgets/recentposts.php:8
+msgid "Display your posts"
+msgstr ""
+
+#: ../inc/widgets/recentposts.php:10
+msgid "malina-Recent Posts"
+msgstr ""
+
+#: ../inc/widgets/recentposts.php:171 ../inc/widgets/sliderposts.php:155
+msgid "Number of items to show"
+msgstr ""
+
+#: ../inc/widgets/recentposts.php:197 ../inc/widgets/sliderposts.php:233
+msgid "Order"
+msgstr ""
+
+#: ../inc/widgets/recentposts.php:199 ../inc/widgets/sliderposts.php:235
+msgid "Lowest to highest values"
+msgstr ""
+
+#: ../inc/widgets/recentposts.php:200 ../inc/widgets/sliderposts.php:236
+msgid "Highest to lowest values"
+msgstr ""
+
+#: ../inc/widgets/recentposts.php:234 ../inc/widgets/sliderposts.php:277
+msgid "Post's ID"
+msgstr ""
+
+#: ../inc/widgets/recentposts.php:236 ../inc/widgets/sliderposts.php:279
+msgid "Modified date"
+msgstr ""
+
+#: ../inc/widgets/recentposts.php:237 ../inc/widgets/sliderposts.php:280
+msgid "Popular"
+msgstr ""
+
+#: ../inc/widgets/recentposts.php:303
+msgid "Meta info"
+msgstr ""
+
+#: ../inc/widgets/recentposts.php:310
+msgid "Select image style"
+msgstr ""
+
+#: ../inc/widgets/sliderposts.php:8
+msgid "Display your posts as slider"
+msgstr ""
+
+#: ../inc/widgets/sliderposts.php:10
+msgid "malina-Slider Posts"
+msgstr ""
+
+#: ../inc/widgets/sliderposts.php:160
+msgid "Posts IDs"
+msgstr ""
+
+#: ../inc/widgets/sliderposts.php:162
+msgid ""
+"Enter posts IDs to display only those records (Note: separate values by "
+"commas (,))."
+msgstr ""
+
+#: ../inc/widgets/sliderposts.php:199
+msgid "Select image size:"
+msgstr ""
+
+#: ../inc/widgets/sliderposts.php:289
+msgid "Autoplay time. 1000=1sec. Set false to disable."
+msgstr ""
+
+#: ../inc/widgets/socials.php:8
+msgid "Display your Socials icons"
+msgstr ""
+
+#: ../inc/widgets/socials.php:10
+msgid "malina-Socials"
+msgstr ""
+
+#: ../inc/widgets/socials.php:34 ../inc/widgets/socials.php:108
+#: ../inc/widgets/socials.php:182 ../malina-elements.php:950
+#: ../malina-elements.php:1060
+msgid "Vkontakte"
+msgstr ""
+
+#: ../inc/widgets/socials.php:46 ../inc/widgets/socials.php:120
+#: ../inc/widgets/socials.php:194 ../malina-elements.php:962
+#: ../malina-elements.php:1072
+msgid "Goodreads"
+msgstr ""
+
+#: ../inc/widgets/socials.php:49 ../inc/widgets/socials.php:123
+#: ../inc/widgets/socials.php:197
+msgid "Bloglovin"
+msgstr ""
+
+#: ../inc/widgets/socials.php:58 ../inc/widgets/socials.php:132
+#: ../inc/widgets/socials.php:206 ../malina-elements.php:986
+#: ../malina-elements.php:1096
+msgid "Spotify"
+msgstr ""
+
+#: ../inc/widgets/socials.php:356
+msgid "Facebook url:"
+msgstr ""
+
+#: ../inc/widgets/socials.php:360
+msgid "Twitter url:"
+msgstr ""
+
+#: ../inc/widgets/socials.php:364
+msgid "Bloglovin profile url:"
+msgstr ""
+
+#: ../inc/widgets/socials.php:368
+msgid "Goodreads url:"
+msgstr ""
+
+#: ../inc/widgets/socials.php:372
+msgid "Pinterest url:"
+msgstr ""
+
+#: ../inc/widgets/socials.php:376
+msgid "Instagram url:"
+msgstr ""
+
+#: ../inc/widgets/socials.php:380
+msgid "Google plus url:"
+msgstr ""
+
+#: ../inc/widgets/socials.php:384
+msgid "Spotify url:"
+msgstr ""
+
+#: ../inc/widgets/socials.php:388
+msgid "Forrst url:"
+msgstr ""
+
+#: ../inc/widgets/socials.php:392
+msgid "Dribbble url:"
+msgstr ""
+
+#: ../inc/widgets/socials.php:396
+msgid "Flickr url:"
+msgstr ""
+
+#: ../inc/widgets/socials.php:400
+msgid "Linkedin url:"
+msgstr ""
+
+#: ../inc/widgets/socials.php:404
+msgid "Skype account:"
+msgstr ""
+
+#: ../inc/widgets/socials.php:408
+msgid "Digg url:"
+msgstr ""
+
+#: ../inc/widgets/socials.php:412
+msgid "Vimeo url:"
+msgstr ""
+
+#: ../inc/widgets/socials.php:416
+msgid "Yahoo url:"
+msgstr ""
+
+#: ../inc/widgets/socials.php:420
+msgid "Tumblr url:"
+msgstr ""
+
+#: ../inc/widgets/socials.php:424
+msgid "Youtube url:"
+msgstr ""
+
+#: ../inc/widgets/socials.php:428
+msgid "Deviantart url:"
+msgstr ""
+
+#: ../inc/widgets/socials.php:432
+msgid "Behance url:"
+msgstr ""
+
+#: ../inc/widgets/socials.php:436
+msgid "VKontakte url:"
+msgstr ""
+
+#: ../inc/widgets/socials.php:440
+msgid "Delicious url:"
+msgstr ""
+
+#: ../inc/widgets/subscribe.php:29
+msgid "Your e-mail ("
+msgstr ""
+
+#: ../inc/widgets/subscribe.php:34 ../inc/widgets/subscribe.php:40
+msgid "There was a problem with your e-mail ("
+msgstr ""
+
+#: ../inc/widgets/subscribe.php:48
+msgid "Enter Your Email"
+msgstr ""
+
+#: ../inc/widgets/subscribe.php:53
+msgid "Sign me up!"
+msgstr ""
+
+#: ../inc/widgets/subscribe.php:66
+msgid "Display subscribe form"
+msgstr ""
+
+#: ../inc/widgets/subscribe.php:68
+msgid "malina-Subscribe"
+msgstr ""
+
+#: ../inc/widgets/subscribe.php:112
+msgid "Info text:"
+msgstr ""
+
+#: ../inc/widgets/twitter.php:36
+msgid "right now"
+msgstr ""
+
+#: ../inc/widgets/twitter.php:38
+msgid " seconds ago"
+msgstr ""
+
+#: ../inc/widgets/twitter.php:40
+msgid "about 1 minute ago"
+msgstr ""
+
+#: ../inc/widgets/twitter.php:42
+msgid " minutes ago"
+msgstr ""
+
+#: ../inc/widgets/twitter.php:44
+msgid "about 1 hour ago"
+msgstr ""
+
+#: ../inc/widgets/twitter.php:46
+msgid " hours ago"
+msgstr ""
+
+#: ../inc/widgets/twitter.php:48
+msgid "yesterday"
+msgstr ""
+
+#: ../inc/widgets/twitter.php:50
+msgid " days ago"
+msgstr ""
+
+#: ../inc/widgets/twitter.php:52
+msgid "over a year ago"
+msgstr ""
+
+#: ../inc/widgets/twitter.php:63
+msgid "Display recent tweets"
+msgstr ""
+
+#: ../inc/widgets/twitter.php:65
+msgid "malina-Twitter"
+msgstr ""
+
+#: ../inc/widgets/twitter.php:152
+msgid "Tweeted on"
+msgstr ""
+
+#: ../inc/widgets/twitter.php:197
+msgid "Consumer Key:"
+msgstr ""
+
+#: ../inc/widgets/twitter.php:199
+msgid "Consumer Secret:"
+msgstr ""
+
+#: ../inc/widgets/twitter.php:201
+msgid "Access Token:"
+msgstr ""
+
+#: ../inc/widgets/twitter.php:203
+msgid "Access Token Secret:"
+msgstr ""
+
+#: ../inc/widgets/twitter.php:205
+msgid "Cache Tweets in every:"
+msgstr ""
+
+#: ../inc/widgets/twitter.php:207
+msgid "Twitter Username:"
+msgstr ""
+
+#: ../inc/widgets/twitter.php:209
+msgid "Tweets to display:"
+msgstr ""
+
+#: ../inc/widgets/twitter.php:217
+msgid "Display time?"
+msgstr ""
+
+#: ../inc/widgets/youtube_channel.php:8
+msgid "Display block with image and button for youtube channel."
+msgstr ""
+
+#: ../inc/widgets/youtube_channel.php:10
+msgid "malina-YouTube Channel"
+msgstr ""
+
+#: ../inc/widgets/youtube_channel.php:93
+msgid "Youtube image:"
+msgstr ""
+
+#: ../malina-elements.php:172 ../malina-elements.php:234
+msgid "Share to Facebook"
+msgstr ""
+
+#: ../malina-elements.php:173 ../malina-elements.php:235
+msgid "Share to Twitter"
+msgstr ""
+
+#: ../malina-elements.php:174 ../malina-elements.php:236
+msgid "Share to Pinterest"
+msgstr ""
+
+#: ../malina-elements.php:175 ../malina-elements.php:237
+msgid "Share with Whatsapp"
+msgstr ""
+
+#: ../malina-elements.php:176 ../malina-elements.php:238
+msgid "Share to Telegram"
+msgstr ""
+
+#: ../malina-elements.php:177 ../malina-elements.php:239
+msgid "Share to LinkedIn"
+msgstr ""
+
+#: ../malina-elements.php:178 ../malina-elements.php:240
+msgid "Share To Google+"
+msgstr ""
+
+#: ../malina-elements.php:179 ../malina-elements.php:241
+msgid "Share with E-Mail"
+msgstr ""
+
+#: ../malina-elements.php:232
+msgid "Share"
+msgstr ""
+
+#: ../malina-elements.php:526
+msgid "0 Comment"
+msgstr ""
+
+#: ../malina-elements.php:528
+msgid "Comments"
+msgstr ""
+
+#: ../malina-elements.php:530
+msgid "1 Comment"
+msgstr ""
+
+#: ../malina-elements.php:534
+msgid "Comments disabled."
+msgstr ""
+
+#: ../malina-elements.php:572
+msgid "< 1 min read"
+msgstr ""
+
+#: ../malina-elements.php:574
+msgid "1 min read"
+msgstr ""
+
+#: ../malina-elements.php:576
+msgid "mins read"
+msgstr ""
+
+#: ../malina-elements.php:685
+msgid "Additional User Meta"
+msgstr ""
+
+#: ../malina-elements.php:688
+msgid "A special image for each user"
+msgstr ""
+
+#: ../malina-elements.php:696
+msgid "Upload an additional image for your user profile."
+msgstr ""
+
+#: ../malina-elements.php:700
+msgid "User socials icons"
+msgstr ""
+
+#: ../malina-elements.php:703
+msgid "Facebook:"
+msgstr ""
+
+#: ../malina-elements.php:707
+msgid "Twitter:"
+msgstr ""
+
+#: ../malina-elements.php:711
+msgid "Telegram:"
+msgstr ""
+
+#: ../malina-elements.php:715
+msgid "WhatsApp:"
+msgstr ""
+
+#: ../malina-elements.php:719
+msgid "Pinterest:"
+msgstr ""
+
+#: ../malina-elements.php:723
+msgid "Instagram:"
+msgstr ""
+
+#: ../malina-elements.php:727
+msgid "Tumblr:"
+msgstr ""
+
+#: ../malina-elements.php:731
+msgid "Disable rss icon"
+msgstr ""
+
+#: ../malina-elements.php:733
+msgid "Enter your socials links to user profile. Leave blank to hide icon."
+msgstr ""
+
+#: ../malina-elements.php:849 ../malina-elements.php:959
+#: ../malina-elements.php:1069
+msgid "Telegram"
+msgstr ""
+
+#: ../malina-elements.php:858 ../malina-elements.php:968
+#: ../malina-elements.php:1078
+msgid "WhatsApp"
+msgstr ""
+
+#: ../malina-elements.php:1166
+msgid "None"
+msgstr ""
+
+#: ../malina-elements.php:1271
+msgid "Export Subscribers"
+msgstr ""
+
+#: ../malina-elements.php:1285
+msgid "No subscribers yet."
+msgstr ""

@@ -1,0 +1,62 @@
+a:4:{s:8:"template";s:6:"malina";s:4:"mods";a:79:{i:0;b:0;s:18:"nav_menu_locations";a:2:{s:15:"main_navigation";i:8;s:17:"mobile_navigation";i:8;}s:18:"custom_css_post_id";i:59;s:21:"malina_header_variant";s:13:"header-custom";s:17:"malina_blog_style";s:7:"style_9";s:24:"malina_display_post_date";s:0:"";s:25:"malina_blog_excerpt_count";s:2:"50";s:21:"malina_body_font_size";s:4:"16px";s:23:"malina_body_line_height";s:4:"34px";s:23:"malina_body_font_family";s:7:"Raleway";s:29:"malina_display_post_read_time";s:0:"";s:24:"malina_display_read_more";s:1:"1";s:31:"malina_posts_headings_font_size";s:2:"40";s:33:"malina_posts_headings_font_weight";s:3:"400";s:33:"malina_posts_headings_font_family";s:16:"Playfair Display";s:36:"malina_posts_headings_letter_spacing";s:3:"1.5";s:30:"malina_post_headings_transform";s:4:"none";s:26:"malina_blog_thumbnail_size";s:14:"post-thumbnail";s:22:"malina_social_facebook";s:1:"#";s:21:"malina_social_twitter";s:1:"#";s:23:"malina_social_instagram";s:1:"#";s:20:"malina_custom_header";s:2:"61";s:17:"malina_media_logo";s:84:"https://malina.artstudioworks.net/kylie/wp-content/uploads/sites/11/2020/03/logo.png";s:23:"malina_media_logo_width";s:0:"";s:19:"malina_accent_color";s:7:"#a60505";s:18:"malina_links_color";s:7:"#a60505";s:32:"malina_meta_categories_font_size";s:4:"13px";s:34:"malina_meta_categories_font_family";s:7:"Raleway";s:32:"malina_meta_categories_transform";s:9:"uppercase";s:28:"malina_meta_categories_color";s:7:"#a60505";s:34:"malina_meta_categories_font_weight";s:3:"600";s:37:"malina_meta_categories_letter_spacing";s:3:"1.5";s:21:"malina_menu_font_size";s:4:"16px";s:23:"malina_menu_font_family";s:16:"Playfair Display";s:23:"malina_menu_font_weight";s:3:"400";s:21:"malina_menu_transform";s:4:"none";s:26:"malina_menu_letter_spacing";s:1:"0";s:17:"malina_body_color";s:7:"#282727";s:20:"malina_footer_layout";s:6:"custom";s:20:"malina_custom_footer";s:2:"97";s:19:"malina_fixed_header";s:0:"";s:39:"malina_posts_headings_item_color_active";s:7:"#999999";s:33:"malina_widgets_headings_font_size";s:4:"13px";s:35:"malina_widgets_headings_font_weight";s:3:"700";s:35:"malina_widgets_headings_font_family";s:16:"Playfair Display";s:29:"malina_page_title_font_family";s:16:"Playfair Display";s:27:"malina_page_title_font_size";s:2:"30";s:29:"malina_page_title_font_weight";s:3:"700";s:29:"malina_menu_item_color_active";s:7:"#a60505";s:23:"malina_logo_font_family";s:16:"Playfair Display";s:33:"malina_footer_copyright_font_size";s:4:"14px";s:35:"malina_footer_copyright_font_family";s:7:"Raleway";s:23:"malina_footer_logo_size";s:2:"60";s:30:"malina_footer_logo_font_family";s:16:"Playfair Display";s:30:"malina_footer_logo_font_weight";s:3:"700";s:34:"malina_meta_categories_color_hover";s:7:"#222222";s:26:"malina_meta_info_font_size";s:4:"13px";s:28:"malina_meta_info_font_family";s:7:"Raleway";s:25:"malina_button_font_family";s:16:"Playfair Display";s:25:"malina_button_font_weight";s:3:"700";s:26:"malina_single_post_sidebar";s:4:"none";s:25:"malina_single_post_layout";s:7:"default";s:30:"malina_single_post_author_info";s:1:"1";s:22:"malina_footer_bg_image";s:91:"https://malina.artstudioworks.net/kylie/wp-content/uploads/sites/11/2020/03/logo-footer.png";s:16:"sidebars_widgets";a:2:{s:4:"time";i:1583424698;s:4:"data";a:5:{s:19:"wp_inactive_widgets";a:3:{i:0;s:8:"search-2";i:1;s:14:"recent-posts-2";i:2;s:17:"recent-comments-2";}s:12:"blog-widgets";a:4:{i:0;s:9:"aboutme-2";i:1;s:12:"bannerspot-2";i:2;s:17:"malinasubscribe-2";i:3;s:15:"instagram-new-2";}s:14:"hidden-widgets";a:0:{}s:14:"footer-widgets";a:0:{}s:4:"wpmm";a:0:{}}}s:20:"malina_archive_style";s:7:"style_9";s:32:"malina_display_post_date_archive";s:0:"";s:37:"malina_display_post_read_time_archive";s:0:"";s:32:"malina_display_read_more_archive";s:1:"1";s:19:"malina_search_style";s:7:"style_9";s:31:"malina_display_post_date_search";s:0:"";s:36:"malina_display_post_read_time_search";s:0:"";s:31:"malina_display_read_more_search";s:1:"1";s:27:"malina_search_excerpt_count";s:2:"50";s:29:"malina_archive_thumbnail_size";s:14:"post-thumbnail";s:28:"malina_archive_excerpt_count";s:2:"50";s:36:"malina_footer_instagram_access_token";s:142:"IGQVJWTWJ2RjBwam5MYUYtdm1VZAENWelFVUGluOHQ3OUZA3eVJON1ZAzMWNHR2Ffa0FzcnVmM1RWMVdiUXBCMDVwamlkRnU5aS00Rm5YUDhORHFTVG9IS2pwV3N0ZAFNkTFdNOWxod1FB";s:32:"malina_page_title_letter_spacing";s:1:"4";s:27:"malina_page_title_transform";s:9:"uppercase";}s:7:"options";a:2:{s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:1470:" #header.header-custom.header-scrolled .logo img {
+    max-width: 175px;
+}
+.widget_aboutme .content {
+	font-size:14px;
+}
+#pagination .current,
+#pagination a:hover {
+	background-color:#282727;
+}
+body.single-post .post .title {
+    padding-bottom: 40px;
+    margin-bottom: 45px;
+    position: relative;
+}
+body.single-post .post .title .meta-categories:after {
+    content: "";
+    width: 70px;
+    height: 0px;
+    color: inherit;
+    position: absolute;
+	border:1.5px solid;
+    bottom: 0;
+    left: 50%;
+    margin-left: -35px;
+}
+.prev-post-title span, .next-post-title span {
+	font-family:'Playfair Display';
+	font-weight:700;
+}
+.widget_socials .social-icons li a:hover, .widget_aboutme .social-icons li a:hover, .social-icons.circle li a:hover {
+	background-color:#dbdbdb;
+}
+.widget_malinasubscribe {
+	border-color:#282727;
+}
+.widget_malinasubscribe .newsletter-submit button {
+	background-color:#282727;
+}
+#footer-custom #latest-posts .blog-posts .post.post-size .title h2 {
+	line-height:1.7em;
+}
+@media (min-width:1025px) {
+	.single-post .post .post-img,
+	.single-post .post .post-meta,
+	.single-post .post #post-navigation,
+	.single-post .post #comments,
+	.single-post .post .author-info {
+			margin-left: -55px;
+			margin-right: -55px;
+		width:initial;
+	}
+		#sidebar .widget .instagram-items .instagram-item.span12 {
+			padding: 0 45px 30px 45px;
+	}
+	body.single-post #page-wrap-blog {
+			padding-bottom: 110px;
+	}
+	#page-wrap-blog {
+			padding: 65px 0 120px;
+	}
+}";}

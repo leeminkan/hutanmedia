@@ -1,0 +1,135 @@
+a:4:{s:8:"template";s:6:"malina";s:4:"mods";a:101:{i:0;b:0;s:18:"nav_menu_locations";a:2:{s:15:"main_navigation";i:6;s:17:"mobile_navigation";i:6;}s:18:"custom_css_post_id";i:6;s:33:"malina_posts_headings_font_weight";s:3:"700";s:33:"malina_posts_headings_font_family";s:12:"Josefin Sans";s:36:"malina_posts_headings_letter_spacing";s:1:"0";s:30:"malina_post_headings_transform";s:4:"none";s:32:"malina_meta_categories_font_size";s:4:"13px";s:34:"malina_meta_categories_font_family";s:12:"Josefin Sans";s:32:"malina_meta_categories_transform";s:9:"uppercase";s:37:"malina_meta_categories_letter_spacing";s:1:"1";s:28:"malina_meta_categories_color";s:7:"#e6969c";s:28:"malina_meta_info_font_family";s:12:"Josefin Sans";s:22:"malina_meta_info_color";s:7:"#959aa0";s:21:"malina_body_font_size";s:4:"15px";s:23:"malina_body_line_height";s:4:"28px";s:17:"malina_body_color";s:7:"#2f3032";s:17:"malina_blog_style";s:8:"style_10";s:19:"malina_blog_columns";s:5:"span4";s:26:"malina_blog_elements_align";s:8:"textleft";s:25:"malina_display_post_likes";s:0:"";s:25:"malina_display_post_views";s:0:"";s:28:"malina_display_post_comments";s:1:"1";s:29:"malina_display_post_read_time";s:0:"";s:18:"malina_sidebar_pos";s:4:"none";s:20:"malina_archive_style";s:8:"style_10";s:22:"malina_archive_columns";s:5:"span4";s:33:"malina_display_post_likes_archive";s:0:"";s:33:"malina_display_post_views_archive";s:0:"";s:36:"malina_display_post_comments_archive";s:1:"1";s:37:"malina_display_post_read_time_archive";s:0:"";s:26:"malina_sidebar_pos_archive";s:4:"none";s:29:"malina_archive_elements_align";s:8:"textleft";s:35:"malina_button_loadmore_border_color";s:7:"#d8d8d7";s:33:"malina_button_loadmore_text_color";s:7:"#b6b6b2";s:30:"malina_display_post_pagination";s:4:"true";s:23:"malina_button_font_size";s:4:"11px";s:25:"malina_button_font_family";s:12:"Josefin Sans";s:25:"malina_button_font_weight";s:3:"700";s:27:"malina_button_loadmore_text";s:4:"More";s:23:"malina_button_transform";s:9:"uppercase";s:26:"malina_ignore_sticky_posts";s:1:"1";s:18:"malina_header_grid";s:9:"container";s:21:"malina_header_variant";s:13:"header-custom";s:20:"malina_custom_header";s:1:"8";s:23:"malina_media_logo_width";s:3:"192";s:23:"malina_logo_font_family";s:12:"Josefin Sans";s:17:"malina_logo_color";s:7:"#202224";s:23:"malina_logo_font_weight";s:3:"700";s:21:"malina_logo_transform";s:4:"none";s:32:"malina_logo_title_letter_spacing";s:1:"0";s:21:"malina_menu_font_size";s:4:"16px";s:23:"malina_menu_font_family";s:12:"Josefin Sans";s:23:"malina_menu_font_weight";s:3:"700";s:21:"malina_menu_transform";s:4:"none";s:26:"malina_menu_letter_spacing";s:1:"0";s:22:"malina_menu_item_color";s:7:"#282727";s:30:"malina_media_logo_mobile_width";s:3:"120";s:24:"malina_menu_item_padding";s:2:"50";s:29:"malina_menu_item_color_active";s:7:"#282727";s:17:"malina_media_logo";s:86:"https://malina.artstudioworks.net/dinogua/wp-content/uploads/sites/12/2020/03/logo.png";s:20:"malina_footer_layout";s:6:"custom";s:20:"malina_custom_footer";s:2:"13";s:33:"malina_widgets_headings_font_size";s:4:"15px";s:35:"malina_widgets_headings_font_weight";s:3:"700";s:35:"malina_widgets_headings_font_family";s:12:"Josefin Sans";s:38:"malina_widgets_headings_letter_spacing";s:1:"0";s:34:"malina_widgets_headings_item_color";s:7:"#282727";s:33:"malina_widgets_headings_textalign";s:4:"left";s:33:"malina_widgets_headings_separator";s:5:"false";s:26:"malina_blog_thumbnail_size";s:14:"malina-masonry";s:18:"malina_live_search";s:1:"1";s:26:"malina_single_post_sidebar";s:4:"none";s:30:"malina_single_post_title_block";s:5:"under";s:28:"malina_single_post_meta_date";s:0:"";s:28:"malina_button_letter_spacing";s:3:"1.5";s:19:"malina_accent_color";s:7:"#e94837";s:18:"malina_links_color";s:7:"#e94837";s:39:"malina_posts_headings_item_color_active";s:7:"#e94837";s:31:"malina_posts_headings_font_size";s:2:"40";s:19:"malina_page_loading";s:1:"1";s:19:"malina_search_style";s:8:"style_10";s:21:"malina_search_columns";s:5:"span4";s:37:"malina_display_post_pagination_search";s:4:"true";s:27:"malina_search_excerpt_count";s:2:"13";s:25:"malina_sidebar_pos_search";s:4:"none";s:38:"malina_display_post_pagination_archive";s:4:"true";s:28:"malina_archive_excerpt_count";s:2:"13";s:24:"malina_search_post_count";s:1:"9";s:32:"malina_display_post_likes_search";s:0:"";s:32:"malina_display_post_views_search";s:0:"";s:35:"malina_display_post_comments_search";s:1:"1";s:36:"malina_display_post_read_time_search";s:0:"";s:25:"malina_archive_post_count";s:1:"9";s:35:"malina_display_featured_img_preview";s:0:"";s:17:"malina_crop_large";s:0:"";s:27:"malina_page_title_font_size";s:2:"40";s:29:"malina_page_title_font_family";s:12:"Josefin Sans";s:32:"malina_page_title_letter_spacing";s:1:"1";s:27:"malina_page_title_transform";s:4:"none";s:28:"malina_page_title_item_color";s:7:"#222128";}s:7:"options";a:2:{s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:3163:".loadmore.button {
+	width:88px;
+	height:88px;
+	text-align:center;
+	padding:0;
+	line-height:86px;
+	border-width:2px;
+	border-radius:50%;
+	font-size:16px;
+	text-transform:none;
+}
+#header.header-custom .search-link a {
+	font-size: 26px;
+	transform: scale(-1, 1);
+}
+#page-wrap-blog {
+	padding-top:50px;
+}
+#header.header-custom .search-link {
+	padding-left:66px;
+}
+.archive.category .page-title h2 {
+	font-size:18px;
+	text-align:center;
+	margin-bottom:65px;
+	font-weight:400;
+	letter-spacing:1.5px;
+	text-transform:uppercase;
+}
+.prev-post-title span, .next-post-title span {
+	font-family:"Josefin Sans";
+	font-weight:700;
+}
+#navigation .menu > li > a, #wp-megamenu-main_navigation>.wpmm-nav-wrap ul.wp-megamenu>li>a {
+	position:relative;
+}
+#navigation .menu > li > a:after, #wp-megamenu-main_navigation>.wpmm-nav-wrap ul.wp-megamenu>li>a:after {
+	content:"" !important;
+	position:absolute;
+	bottom:20px;
+	top:auto;
+	height:0px;
+	left:25px;
+	right:25px;
+	width:calc(100% - 50px);
+	border-bottom:1px solid;
+	display:block !important;
+}
+#footer-custom .widget .instagram-item a {
+    border: 3px solid #fff;
+    border-radius: 4px;
+	  padding-bottom: calc(100% - 6px);
+}
+#footer-custom .elementor-element-8854cd5 h3 {
+	margin-bottom:2px;
+	font-size:36px;
+	letter-spacing:0px;
+}
+#footer-custom .elementor-element-8854cd5 h3 i {
+	font-size:24px;
+	font-weight:400;
+	padding-right:29px;
+}
+body.single-post #content .post .meta-categories, body.single-post #content .post .title {
+	text-align:left;
+}
+.single-post.post-layout-default div#content.span12.single {
+    max-width: 811px;
+}
+.single-post #content .post > div {
+	background-color:#fff;
+	padding:50px 45px !important;
+	border-radius:6px;
+	box-shadow:0 0 30px 0 rgba(0,0,0,0.15);
+	border:0 !important;
+	margin-bottom:37px !important;
+}
+#respond {
+    margin-bottom: 0px;
+}
+body.single-post .post .post-meta .meta > div {
+	color:#959aa0;
+}
+body.single-post #page-wrap-blog {
+	padding-bottom:100px;
+	padding-top:30px;
+}
+.prev-post-title h2, .next-post-title h2 {
+	font-weight:400;
+	letter-spacing:0;
+}
+.single-post #content .post .post-img,
+.single-post #content .single-post-gallery,
+.single-post #content .single-post-gallery-thumbs {
+	margin-top:-47px;
+	margin-left:-42px;
+	margin-right:-42px;
+	margin-bottom:57px;
+	border-radius:5px 5px 0 0;
+	width:initial;
+}
+.single-post #content .owl-thumbs {
+	margin-left:-42px;
+	margin-right:-52px;
+}
+.single-post #content .single-post-gallery-thumbs {
+	margin-bottom:0
+}
+.single-post #content .post .post-img img,
+.single-post #content .single-post-gallery img, .single-post #content .single-post-gallery-thumbs img {
+	border-radius:5px 5px 0 0;
+}
+.comment .author-title {
+	font-size:17px;
+	font-weight:700;
+}
+body.single-post #content .post .title {
+	padding-bottom:7px;
+}
+body.single-post #content .post .meta-categories {
+	margin-bottom:18px;
+}
+#latest-posts .blog-posts {
+    padding-bottom: 37px;
+}
+@media only screen and (max-width: 782px){
+.title h2, .title h1, .post.post-featured .post-content .meta-over-img h2, .post.post-featured .post-content .post-title-block h2 {
+    letter-spacing: 0px;
+	}
+}
+@media (min-width:1300px){
+	.container {
+    max-width: 1276px;
+	}
+}";}

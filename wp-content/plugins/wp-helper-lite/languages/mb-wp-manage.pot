@@ -1,0 +1,24 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: class-mb-wp-manage-settings.php:1
+msgid ""
+msgstr ""
+
+#. Text in function
+#: class-mb-wp-manage-settings.php:1
+msgid "Customer name"
+msgstr ""
+
+#. Text in function
+#: class-mb-wp-manage-settings.php:1
+msgid "Enable/Disable"
+msgstr ""
+
+#. Text in function
+#: class-mb-wp-manage-settings.php:1
+msgid "ID Mat Bao"
+msgstr ""

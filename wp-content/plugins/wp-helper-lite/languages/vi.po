@@ -1,0 +1,43 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 2.2\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: vi\n"
+
+#. Text in function
+#: mwp-utilities/admin/settings/class-general.php:128
+msgid "Customer name"
+msgstr "Tên khách hàng"
+
+#. Text in echo
+#: mwp-utilities/admin/settings/class-general.php:127
+msgid "Enable/Disable Relative path for image"
+msgstr ""
+
+#. Text in function
+#: mwp-utilities/admin/settings/class-general.php:128
+msgid "General"
+msgstr "Chung"
+
+#. Text in function
+#: mwp-utilities/admin/settings/class-general.php:128
+msgid "ID Mat Bao"
+msgstr ""
+
+#. Text in function
+#: mwp-utilities/admin/settings/class-general.php:128
+msgid "Relative path for image"
+msgstr "Đường dẫn ảnh động"
+
+#. Text in function
+#: mwp-utilities/admin/settings/class-social.php:1
+msgid "Social"
+msgstr ""
