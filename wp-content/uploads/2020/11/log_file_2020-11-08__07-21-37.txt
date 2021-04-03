@@ -1,0 +1,147 @@
+
+---Downloaded files---
+The import files for: Main Demo were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://get.photruyentranh.com
+Data file = /var/www/vhosts/learn.mwpteam.com/get.photruyentranh.com/wp-content/themes/malina/framework/demos/elementor/maindemo/demo.xml
+Widget file = /var/www/vhosts/learn.mwpteam.com/get.photruyentranh.com/wp-content/themes/malina/framework/demos/elementor/maindemo/widgets.wie
+Customizer file = /var/www/vhosts/learn.mwpteam.com/get.photruyentranh.com/wp-content/themes/malina/framework/demos/elementor/maindemo/customizer.dat
+Redux files:
+not defined!
+
+---pt-ocdi/before_content_import---
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---pt-ocdi/before_widgets_import---
+
+
+---Importing widgets---
+Blog Widgets : 
+
+malina-Instagram New API - Instagram - Imported
+malina-Subscribe - Newsletter - Imported
+malina-Slider Posts - Trending - Imported
+malina-BannerSpot - Banner spot - Imported
+malina-Recent Posts - Don&#039;t miss - Imported
+malina-Category - No Title - Imported
+malina-Category - No Title - Imported
+
+Hidden Area Widgets : 
+
+Custom HTML - No Title - Imported
+malina-Subscribe - Newsletter - Imported
+malina-Socials - No Title - Imported
+malina-Slider Posts - No Title - Imported
+
+WP Mega Menu Widgets : 
+
+malina-Mega Menu Posts - No Title - Imported
+malina-Mega Menu Posts - No Title - Imported
+
+AboutMe : Sidebar does not exist in theme (moving widget to Inactive)
+
+Custom HTML - Location - Imported to Inactive
+malina-BannerSpot - Banner spot - Imported to Inactive
+malina-Instagram New API - Instagram Widget - Imported to Inactive
+malina-Subscribe - Subscribe - Imported to Inactive
+
+ContactMe : Sidebar does not exist in theme (moving widget to Inactive)
+
+Custom HTML - Location - Imported to Inactive
+malina-BannerSpot - Banner spot - Imported to Inactive
+
+SinglePost : Sidebar does not exist in theme (moving widget to Inactive)
+
+malina-Slider Posts - Trending - Imported to Inactive
+malina-BannerSpot - Banner spot - Imported to Inactive
+malina-Recent Posts - Don&#039;t miss - Imported to Inactive
+
+SinglePost2 : Sidebar does not exist in theme (moving widget to Inactive)
+
+malina-BannerSpot - Banner spot - Imported to Inactive
+malina-Recent Posts - Don&#039;t miss - Imported to Inactive
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+not serialized data properly
