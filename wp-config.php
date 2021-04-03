@@ -1,6 +1,6 @@
 <?php
-define('WP_SITEURL', 'http://hutanmedia.local');
-define('WP_HOME', 'http://hutanmedia.local');
+define('WP_SITEURL', 'https://hutanmedia.com');
+define('WP_HOME', 'https://hutanmedia.com');
 
 define('WP_AUTO_UPDATE_CORE', 'minor'); // This setting is required to make sure that WordPress updates can be properly managed in WordPress Toolkit. Remove this line if this WordPress website is not managed by WordPress Toolkit anymore.
 
@@ -51,14 +51,12 @@ define('DB_NAME', 'hut62311_x7ma1o');
 
 /** MySQL database username */
 
-// define('DB_USER', 'hut62311_lkie65');
-define('DB_USER', 'root');
+define('DB_USER', 'hut62311_lkie65');
 
 
 /** MySQL database password */
 
-define('DB_PASSWORD', '');
-// define('DB_PASSWORD', 'QBGZELP61@7PW6jZw');
+define('DB_PASSWORD', 'QBGZELP61@7PW6jZw');
 
 
 /** MySQL hostname */
