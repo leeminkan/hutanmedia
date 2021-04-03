@@ -70,7 +70,7 @@ class malina_widget_instagram_new extends WP_Widget {
         }
 		if( !$malina_instagram_items || empty($malina_instagram_items) ){
 		    // get remote data
-		    $result = wp_remote_get( "https://graph.instagram.com/me/media?fields=id,username,caption,media_type,media_url,permalink&limit=20&access_token={$access_token}", array('timeout' => 60, 'sslverify' => false));
+		    $result = wp_remote_get( "https://graph.instagram.com/me/media?fields=id,username,caption,media_type,media_url,thumbnail_url,permalink&limit={$pics}&access_token={$access_token}", array('timeout' => 60, 'sslverify' => false));
 		    if(is_array($result) && !empty($result['body'])){
 		    	$result = json_decode( $result['body'] );
 			    if ( is_wp_error( $result ) ) {
@@ -89,6 +89,7 @@ class malina_widget_instagram_new extends WP_Widget {
 			        $n         = 0;
 
 			        if( is_array($result->data) || is_object($result->data) ){
+			        	$upload_dir = wp_upload_dir();
 			        	foreach ( $result->data as $d ) {
 
 				        	$username = $d->username;
@@ -97,10 +98,33 @@ class malina_widget_instagram_new extends WP_Widget {
 				            $main_data[ $n ]['user']      = $d->username;
 				            $main_data[ $n ]['user_url']   = '//instagram.com/'.$username;
 				            $main_data[ $n ]['instagram_item_url'] = $d->permalink;
-				            $main_data[ $n ]['thumbnail'] = trailingslashit( $d->permalink ).'media?size=m';
+				            if($d->media_type == 'VIDEO'){
+			            		$tmp_url = $d->thumbnail_url;
+			            	} else {
+			            		$tmp_url = $d->media_url;
+			            	}
+			            	if(wp_mkdir_p($upload_dir['basedir'] . '/malina-instagram/')){
+				            	
+				            	$filename = basename( $tmp_url );
+								if (strpos($filename, '?') !== false) {
+								    $t = explode('?',$filename);
+								    $filename = $t[0];            
+								}
+				            	if( !file_exists($upload_dir['basedir'] . '/malina-instagram/' . $filename) ){
+				            		$image = wp_get_image_editor( $tmp_url );
+				            		if ( ! is_wp_error( $image ) ) {
+									    $image->resize( 320, 320, true );
+									    $t = $image->save( $upload_dir['basedir'] . '/malina-instagram/' . $filename );
+									    $tmp_url = $upload_dir['baseurl'] . '/malina-instagram/' . $filename;
+									}
+				            	} else {
+				            		$tmp_url = $upload_dir['baseurl'] . '/malina-instagram/' . $filename;
+				            	}
+				            }
+			            	
+				            $main_data[ $n ]['thumbnail'] = $tmp_url;
 				            $main_data[ $n ]['caption'] = isset($d->caption) ? $d->caption : '';
 				            $main_data[ $n ]['full'] = $d->media_url;
-				            
 				            $n++;
 				        }
 			        }
