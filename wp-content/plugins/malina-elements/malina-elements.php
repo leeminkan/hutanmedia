@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Malina Elements
  * Description: This plugin is required for use with Malina theme. It gathers all shortcodes and elements from Malina theme. It gives a possibility to keep this content data even if you switch the theme to another one. This is a part of new Envato requirements for WordPress theme developers.
- * Version: 2.1.4
+ * Version: 2.2.1
  * Author: Artstudioworks
  * Author URI: http://themeforest.net/user/artstudioworks/portfolio
  * Text Domain: malina-elements
@@ -274,6 +274,9 @@ if(!function_exists('malina_is_elementor_editor')){
 }
 if( !function_exists('malina_get_post_format_content') ){
 	function malina_get_post_format_content($echo = true, $img_size) {
+		if($img_size == 'disable'){
+			return '';
+		}
 		$post_format = get_post_format();
 		global $post;
 		global $_wp_additional_image_sizes;
@@ -1211,9 +1214,10 @@ function malina_apply_content_placeholders( $string, $post_id ) {
 	$string = str_replace( '{post_excerpt}', sanitize_text_field( get_the_excerpt($post_id) ), $string );
 	return $string;
 }
-add_action( 'publish_post', 'malina_send_notification' );
-function malina_send_notification( $post_id ) { 
-	if( get_theme_mod('malina_save_subscribers', 'false') == 'false' || get_theme_mod('malina_newsletter_enable', 'false') == 'false' ){
+add_action( 'transition_post_status', 'malina_send_notification', 10, 3 );
+function malina_send_notification( $new_status, $old_status, $post ) {
+	$post_id = $post->ID;
+	if( $post->post_type != 'post' || get_theme_mod('malina_save_subscribers', 'false') == 'false' || get_theme_mod('malina_newsletter_enable', 'false') == 'false' ){
 		return;
 	}  
     $post     = get_post($post_id);
@@ -1258,9 +1262,11 @@ function malina_send_notification( $post_id ) {
 		</html>";
 	}
     $headers = array('Content-Type: text/html; charset=UTF-8');
-    foreach ($subscribers_list as $subscriber) {
-     	wp_mail($subscriber, $subject, $message, $headers); 
-    }  
+    if( $new_status == 'publish' && $old_status != 'publish' ){
+    	foreach ($subscribers_list as $subscriber) {
+	     	wp_mail($subscriber, $subject, $message, $headers); 
+	    }
+	}
 }
 if( get_theme_mod('malina_save_subscribers', 'false') == 'true' ){
 	add_action('admin_footer', 'malina_export_subscribers');

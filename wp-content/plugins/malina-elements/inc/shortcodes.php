@@ -281,7 +281,8 @@ if( !function_exists('MalinaGridPosts') ){
 	      	'display_read_time' => 'true',
 	      	'show_readmore' => 'false',
 	      	'ignore_featured' => 'true',
-	      	'ignore_sticky_posts' => 'false'
+	      	'ignore_sticky_posts' => 'false',
+	      	'display_categories_badges' => 'false'
 	    ), $atts));
 
 	    global $post;
@@ -318,6 +319,7 @@ if( !function_exists('MalinaGridPosts') ){
 		$date_on_hover = $display_date == 'hover' ? ' date_on_hover' : '';
 		$display_date = ($display_date == 'true' || $display_date=='1' || $display_date=='hover');
 		$display_categories = ($display_categories === 'true' || $display_categories=='1');
+		$display_categories_badges = ($display_categories_badges === 'true' || $display_categories_badges=='1' );
 		$ignore_sticky_posts = ($ignore_sticky_posts === 'true' || $ignore_sticky_posts=='1');
 		$ignore_featured = ($ignore_featured === 'true' || $ignore_featured=='1' );
 		$show_readmore = ($show_readmore === 'true' || $show_readmore == '1' );
@@ -360,6 +362,9 @@ if( !function_exists('MalinaGridPosts') ){
 		if($post_style == 'style_6'){
 			$show_sharebox = 'true';
 		}
+		if($post_style == 'style_11'){
+			$ignore_sticky_posts = $ignore_featured = true;
+		}
 		static $post_section_id = 0;
 		$out = '';
 		++$post_section_id;
@@ -371,8 +376,9 @@ if( !function_exists('MalinaGridPosts') ){
 				$masonry = 'fitRows';
 			}
 			
-			wp_enqueue_script('isotope');
+			
 			if( $pagination == 'infinitescroll' || $pagination == 'true'){
+				wp_enqueue_script('isotope');
 				wp_enqueue_script('infinite-scroll');
 				wp_enqueue_script('imagesloaded');
 			}
@@ -422,7 +428,7 @@ if( !function_exists('MalinaGridPosts') ){
 			            gridBlog".$post_section_id.".isotope('layout');
 			        });
 					jQuery('.blog-posts .post .post-img img').on('load', function(){ gridBlog".$post_section_id.".isotope('layout'); });
-					win.load(function(){
+					win.on('load', function(){
 			            gridBlog".$post_section_id.".isotope('layout');
 			        });";
 			        if( $pagination == 'infinitescroll' || $pagination == 'true'){
@@ -459,12 +465,12 @@ if( !function_exists('MalinaGridPosts') ){
 					}
 			    $script .="});";
 			    if( $pagination == 'true' ){
-			    	$script .= "jQuery(window).load(function(){
+			    	$script .= "jQuery(document).ready(function(){
 				    	gridBlog".$post_section_id.".isotope('layout');
 				    	jQuery(window).unbind('.infscr');
 				    });";
 			    } elseif($pagination == 'infinitescroll') {
-			    	$script .= "jQuery(window).load(function(){
+			    	$script .= "jQuery(window).on('load', function(){
 				    	gridBlog".$post_section_id.".isotope('layout');
 				    });";
 			    }
@@ -908,7 +914,7 @@ if( !function_exists('MalinaGridPosts') ){
 							}
 
 							$out .= '</div>';
-							if( $display_likes || $display_read_time || $display_views || (comments_open() && $display_comments) ) {
+							if( $display_date || $display_likes || $display_read_time || $display_views || (comments_open() && $display_comments) ) {
 								$out .= '<div class="post-meta footer-meta">';
 								if( $display_date ) $out .= '<div class="meta-date">'.get_the_time(get_option('date_format'), get_the_ID() ).'</div>';
 								if( $display_likes ) $out .= '<div class="post-like">'.getPostLikeLink(get_the_ID()).'</div>';
@@ -922,6 +928,16 @@ if( !function_exists('MalinaGridPosts') ){
 							$out .= '</div>';
 						$out .= '</div>';
 					$out .= '</article>';
+				} elseif( $post_style == 'style_11' ){
+					$classes = str_replace('sticky ', '', $classes);
+					$out .= '<article class="post-size '.$columns.' '.$post_style.' '.$classes.'">';
+						$out .= '<a class="post-overlay-block" href="'.get_the_permalink().'">';
+							$out .= '<div class="post-img">'.get_the_post_thumbnail(get_the_id(), $thumbsize).'</div>';
+							$out .= '<div class="post-img-overlay"><header class="title">';
+							$out .= '<h2 itemprop="headline">'.get_the_title().'</h2>';
+							$out .= '</header></div>';
+						$out .= '</a>';
+					$out .= '</article>';
 				} else {
 					$classes = str_replace('sticky ', '', $classes);
 					$out .= '<article class="post-size '.$columns.' '.$post_style.' '.$classes.'">';
@@ -929,9 +945,10 @@ if( !function_exists('MalinaGridPosts') ){
 							$out .= '<div class="post-img-block">';
 							if( $display_date ) $out .= '<div class="label-date'.$date_on_hover.'"><span class="day">'.get_the_time('d', get_the_ID() ).'</span><span class="month">'.get_the_time('M', get_the_ID() ).'</span></div>';
 							$out .= malina_get_post_format_content(false, $thumbsize);
+							if( $display_categories && $display_categories_badges) $out .= '<div class="meta-categories meta-categories-badges">'.get_the_category_list(' ').'</div>';
 							$out .= '</div>';
 							$out .= '<div class="post-content-block">';
-								if( $display_categories ) $out .= '<div class="meta-categories">'.get_the_category_list(', ').'</div>';
+								if( $display_categories && !$display_categories_badges ) $out .= '<div class="meta-categories">'.get_the_category_list(', ').'</div>';
 								$out .= '<header class="title">';
 								$out .= '<h2 itemprop="headline"><a href="'.get_the_permalink().'" title="'.esc_html__('Permalink to', 'malina-elements').' '.esc_attr(the_title_attribute('echo=0')).'" rel="bookmark">'.get_the_title().'</a></h2>';
 								$out .= '</header>';
@@ -940,7 +957,6 @@ if( !function_exists('MalinaGridPosts') ){
 							if( $excerpt_count > 0 ){
 								$out .= '<div class="post-excerpt">'.MalinaExcerpt($excerpt_count).'</div>';
 							}
-
 							$out .= '</div>';
 							if( $display_likes || $display_read_time || $display_views || (comments_open() && $display_comments) ) {
 								$out .= '<div class="post-meta footer-meta">';
@@ -951,6 +967,9 @@ if( !function_exists('MalinaGridPosts') ){
 									$out .= '<div class="meta-comment">'.MalinaCommentsNumber( get_the_ID() ).'</div>';
 								}
 								$out .= '</div>';
+							}
+							if( $show_readmore ){
+								$out .= '<a class="readmore" href="'.get_the_permalink().'">'.apply_filters( 'malina_recent_post_readmore_text', esc_html__("Read more", "malina-elements") ).'</a>';
 							}
 							$out .= '</div>';
 						$out .= '</div>';
@@ -1082,7 +1101,7 @@ if( !function_exists('MalinaCarouselPosts') ){
 				        autoHeight: false,
 				        themeClass: "owl-recentposts"';
 					    $owl_custom .= '});
-						$(window).load(function(){
+						$(window).on(\'load\',function(){
 							owl.trigger(\'refresh.owl.carousel\');
 						});
 					}, 10);
@@ -2149,7 +2168,7 @@ if(!function_exists('MalinaGoogleMap')){
 				});
 			}
     	</script>
-    	<script src="https://maps.googleapis.com/maps/api/js?key='.get_theme_mod('malina_google_map_api_key','AIzaSyBfbDATAIBSQEUY0YzOEjzcB8A1W2FNKSQ').'&libraries=places,geometry&callback=initMap&v=weekly"></script>';
+    	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD0lDTaFxsvsbmszBMf3YkBnInGZqHSLu4&libraries=places,geometry&callback=initMap&v=weekly"></script>';
 
 		return $out;
 	}

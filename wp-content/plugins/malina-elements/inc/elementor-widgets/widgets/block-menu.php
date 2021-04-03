@@ -56,6 +56,18 @@ class Widget_ASW_block_menu extends Widget_Base {
 		return [ 'malina-elements' ];
 	}
 
+	private function get_available_menus() {
+		$menus = wp_get_nav_menus();
+
+		$options = [];
+
+		foreach ( $menus as $menu ) {
+			$options[ $menu->term_id ] = $menu->name;
+		}
+
+		return $options;
+	}
+
 	/**
 	 * Register icon list widget controls.
 	 *
@@ -70,13 +82,31 @@ class Widget_ASW_block_menu extends Widget_Base {
 				'label' => __( 'Malina Menu', 'malina-elements' ),
 			]
 		);
-		$menus_list = array();
-		$menus_list['none'] = __('Default', 'malina-elements');
-		$menus = get_terms('nav_menu');
-		if( !empty($menus) ){
-			foreach($menus as $menu){
-			  $menus_list[$menu->term_id] = $menu->name;
-			}
+		$menus = $this->get_available_menus();
+
+		if ( ! empty( $menus ) ) {
+			$this->add_control(
+				'menu',
+				[
+					'label' => __( 'Select Menu', 'malina-elements' ),
+					'type' => Controls_Manager::SELECT,
+					'options' => $menus,
+					'default' => array_keys( $menus )[0],
+					'save_default' => true,
+					'separator' => 'after',
+					'description' => sprintf( __( 'Go to the <a href="%s" target="_blank">Menus screen</a> to manage your menus.', 'malina-elements' ), admin_url( 'nav-menus.php' ) ),
+				]
+			);
+		} else {
+			$this->add_control(
+				'menu',
+				[
+					'type' => Controls_Manager::RAW_HTML,
+					'raw' => '<strong>' . __( 'There are no menus in your site.', 'malina-elements' ) . '</strong><br>' . sprintf( __( 'Go to the <a href="%s" target="_blank">Menus screen</a> to create one.', 'malina-elements' ), admin_url( 'nav-menus.php?action=edit&menu=0' ) ),
+					'separator' => 'after',
+					'content_classes' => 'elementor-panel-alert elementor-panel-alert-info',
+				]
+			);
 		}
 		$this->add_control(
 			'menu_place',
@@ -88,6 +118,21 @@ class Widget_ASW_block_menu extends Widget_Base {
 					'footer' => esc_html__('Menu for footer', 'malina-elements')
 				],
 				'default' => 'header',
+			]
+		);
+		$this->add_control(
+			'menu_vertical',
+			[
+				'label' => esc_html__( 'Show verticaly/horizontaly', 'malina-elements' ),
+				'type' => Controls_Manager::SELECT,
+				'options' => [
+					'vertical' => esc_html__( 'Vertical', 'malina-elements' ),
+					'horizontal' => esc_html__( 'Horizontal', 'malina-elements' )
+				],
+				'default' => 'horizontal',
+				'condition' => [
+					'menu_place' => 'footer'
+				]
 			]
 		);
 		$this->add_control(
@@ -170,7 +215,7 @@ class Widget_ASW_block_menu extends Widget_Base {
 					'true' => esc_html__( 'Yes', 'malina-elements' ),
 					'false' => esc_html__( 'No', 'malina-elements' )
 				],
-				'default' => 'true',
+				'default' => 'false',
 				'condition' => [
 					'menu_place' => 'header'
 				]
@@ -213,18 +258,29 @@ class Widget_ASW_block_menu extends Widget_Base {
         } else {
         	$depth = 1;
         }
-        if(function_exists('get_wpmm_option')){
-        	$wpmm_nav_location_settings = get_wpmm_option('main_navigation');
+
+        $wp_megamenu_enabled = false;
+        $locations = get_nav_menu_locations();
+
+        if(isset($locations['main_navigation']) && $locations['main_navigation'] == $menu ){
+        	$wpmm_nav_location_settings = get_option( 'wpmm_options' );
+        	if(!empty( $wpmm_nav_location_settings['main_navigation']['is_enabled'] ) || $wpmm_nav_location_settings['main_navigation']['is_enabled'] == '1' ){
+				$wp_megamenu_enabled = true;
+        	}
         }
-		if(function_exists('wp_megamenu') && !empty($wpmm_nav_location_settings['is_enabled']) && $menu_place == 'header'){
+		if(function_exists('wp_megamenu') && $wp_megamenu_enabled && $menu_place == 'header'){
 			ob_start();			
 			wp_megamenu(array('theme_location' => 'main_navigation'));
 			$out .= ob_get_contents();
 			ob_end_clean();
 		} else {
 			$out .= '<nav id="navigation">';
-				$out .= '<ul id="nav" class="menu">';
-					$out .= wp_nav_menu(array('container' => false, 'menu_id' => 'nav-custom', 'items_wrap'=>'%3$s', 'fallback_cb' => false, 'echo' => false, 'depth' => $depth ));
+				$out .= '<ul id="nav" class="menu menu-'.$menu_vertical.'">';
+					if ( isset($menu) && $menu !== '' ) {
+						$out .= wp_nav_menu(array('container' => false, 'menu'=>$menu, 'menu_id' => 'nav-custom', 'items_wrap'=>'%3$s', 'fallback_cb' => false, 'echo' => false, 'depth' => $depth ));
+					} else {
+						$out .= wp_nav_menu(array('container' => false, 'menu_id' => 'nav-custom', 'items_wrap'=>'%3$s', 'fallback_cb' => false, 'echo' => false, 'depth' => $depth ));
+					}
 				$out .= '</ul>';
 			$out .= '</nav>';
 		}
