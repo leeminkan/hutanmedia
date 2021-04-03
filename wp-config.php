@@ -1,8 +1,8 @@
-<?php  
- define('WP_SITEURL', 'https://hutanmedia.com');  
- define('WP_HOME', 'https://hutanmedia.com');  
- 
-define('WP_AUTO_UPDATE_CORE', 'minor');// This setting is required to make sure that WordPress updates can be properly managed in WordPress Toolkit. Remove this line if this WordPress website is not managed by WordPress Toolkit anymore.
+<?php
+define('WP_SITEURL', 'http://hutanmedia.local');
+define('WP_HOME', 'http://hutanmedia.local');
+
+define('WP_AUTO_UPDATE_CORE', 'minor'); // This setting is required to make sure that WordPress updates can be properly managed in WordPress Toolkit. Remove this line if this WordPress website is not managed by WordPress Toolkit anymore.
 
 /**
 
@@ -46,34 +46,36 @@ define('WP_AUTO_UPDATE_CORE', 'minor');// This setting is required to make sure 
 
 /** The name of the database for WordPress */
 
-define( 'DB_NAME', 'hut62311_x7ma1o' );
+define('DB_NAME', 'hut62311_x7ma1o');
 
 
 /** MySQL database username */
 
-define( 'DB_USER', 'hut62311_lkie65' );
+// define('DB_USER', 'hut62311_lkie65');
+define('DB_USER', 'root');
 
 
 /** MySQL database password */
 
-define( 'DB_PASSWORD', 'QBGZELP61@7PW6jZw' );
+define('DB_PASSWORD', '');
+// define('DB_PASSWORD', 'QBGZELP61@7PW6jZw');
 
 
 /** MySQL hostname */
 
-define( 'DB_HOST', 'localhost:3306' );
+define('DB_HOST', 'localhost:3306');
 
 
 
 /** Database Charset to use in creating database tables. */
 
-define( 'DB_CHARSET', 'utf8' );
+define('DB_CHARSET', 'utf8');
 
 
 
 /** The Database Collate type. Don't change this if in doubt. */
 
-define( 'DB_COLLATE', '' );
+define('DB_COLLATE', '');
 
 
 
@@ -141,13 +143,12 @@ define('WP_ALLOW_MULTISITE', true);
 
 /** Absolute path to the WordPress directory. */
 
-if ( ! defined( 'ABSPATH' ) )
+if (!defined('ABSPATH'))
 
-	define( 'ABSPATH', dirname( __FILE__ ) . '/' );
+	define('ABSPATH', dirname(__FILE__) . '/');
 
 
 
 /** Sets up WordPress vars and included files. */
 
 require_once ABSPATH . 'wp-settings.php';
-
